@@ -123,13 +123,16 @@
     <tipAndTrick file="HorizontalScrolling.html"/>
     <tipAndTrick file="TagNameCompletion.html"/>
     <tipAndTrick file="ViewInBrowser.html"/>
-
     <tipAndTrick file="LiveTemplatesRestore.html"/>
     <tipAndTrick file="Multicursor.html"/>
     <tipAndTrick file="Multicursor1.html"/>
     <tipAndTrick file="NamedBreakpoints.html"/>
     <tipAndTrick file="RemoteInterpreter.html"/>
     <tipAndTrick file="Scratches.html"/>
+    <tipAndTrick file="DDDisable.html"/>
+    <tipAndTrick file="Multiselection.html"/>
+    <tipAndTrick file="MultiselectionInSearch.html"/>
+    <tipAndTrick file="MultiselectionInSearch1.html"/>
 
   </extensions>
 </idea-plugin>

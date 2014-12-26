@@ -1,4 +1,4 @@
-<idea-plugin version="2" xmlns:xi="http://www.w3.org/2001/XInclude">
+<idea-plugin xmlns:xi="http://www.w3.org/2001/XInclude" version="2">
 
   <application-components>
     <component>
@@ -9,6 +9,7 @@
   <xi:include href="/META-INF/IdeTipsAndTricks.xml" xpointer="xpointer(/idea-plugin/*)"/>
   <xi:include href="/META-INF/PlatformLangPlugin.xml" xpointer="xpointer(/idea-plugin/*)"/>
   <xi:include href="/META-INF/XmlPlugin.xml" xpointer="xpointer(/idea-plugin/*)"/>
+  <xi:include href="/META-INF/JsonPlugin.xml" xpointer="xpointer(/idea-plugin/*)"/>
   <xi:include href="/META-INF/RegExpPlugin.xml" xpointer="xpointer(/idea-plugin/*)"/>
   <xi:include href="/META-INF/SpellCheckerPlugin.xml" xpointer="xpointer(/idea-plugin/*)"/>
   <xi:include href="/META-INF/ImagesPlugin.xml" xpointer="xpointer(/idea-plugin/*)"/>
@@ -32,7 +33,7 @@
 
     <projectViewPane implementation="com.intellij.ide.projectView.impl.ProjectViewPane"/>
     <!--<projectAttachProcessor implementation="com.intellij.platform.ModuleAttachProcessor"/>-->
-    <applicationConfigurable groupId="project" instance="com.intellij.application.options.pathMacros.PathMacroConfigurable"/>
+    <applicationConfigurable groupId="build" instance="com.intellij.application.options.pathMacros.PathMacroConfigurable"/>
     <projectConfigurable groupId="language" instance="com.intellij.psi.templateLanguages.TemplateDataLanguageConfigurable"/>
     <projectConfigurable groupId="project" dynamic="true" instance="com.intellij.webcore.resourceRoots.WebIdeProjectStructureWithSourceConfigurable" order="first" nonDefaultProject="true"/>
     <iconProvider implementation="com.intellij.webcore.resourceRoots.ResourceRootIconProvider"/>
@@ -101,6 +102,13 @@
 
     <action id="NewElement" class="com.intellij.ide.actions.NewElementAction">
       <add-to-group group-id="PlatformOpenProjectGroup" anchor="after" relative-to-action="NewDirectoryProject"/>
+    </action>
+
+    <action id="PhpStormTutorials" class="com.jetbrains.php.actions.PhpOpenTutorialsAction" text="Tutorials" description="Open PhpStorm tutorials">
+      <add-to-group group-id="HelpMenu" anchor="after" relative-to-action="HelpTopics"/>
+    </action>
+    <action id="PhpStormNewIssue" class="com.jetbrains.php.actions.PhpReportIssueAction" text="Report an issue">
+      <add-to-group group-id="HelpMenu" anchor="after" relative-to-action="TechnicalSupport"/>
     </action>
 
     <group id="WelcomeScreen.Platform.NewProject">
