@@ -11,7 +11,9 @@
 ![image](images/screen-01.jpg)
 
 
+###增加了繁体中文支持（工具扫描翻译，有误还请见谅）
 
+![image](images/screen-02.jpg)
 ----------
 
 **markdown 插件乱码**的问题参见[WebStorm汉化包](https://github.com/ewen0930/WebStorm-Chinese)里说明
