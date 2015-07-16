@@ -33,21 +33,29 @@
 
     <projectViewPane implementation="com.intellij.ide.projectView.impl.ProjectViewPane"/>
     <!--<projectAttachProcessor implementation="com.intellij.platform.ModuleAttachProcessor"/>-->
-    <applicationConfigurable groupId="build" instance="com.intellij.application.options.pathMacros.PathMacroConfigurable"/>
-    <projectConfigurable groupId="language" instance="com.intellij.psi.templateLanguages.TemplateDataLanguageConfigurable"/>
-    <projectConfigurable groupId="project" dynamic="true" instance="com.intellij.webcore.resourceRoots.WebIdeProjectStructureWithSourceConfigurable" order="first" nonDefaultProject="true"/>
-    <iconProvider implementation="com.intellij.webcore.resourceRoots.ResourceRootIconProvider"/>
+    <applicationConfigurable groupId="build"
+                             id="preferences.pathVariables"
+                             key="title.path.variables"
+                             bundle="messages.ApplicationBundle"
+                             instance="com.intellij.application.options.pathMacros.PathMacroConfigurable"/>
+    <projectConfigurable groupId="language"
+                         id="Template Data Languages"
+                         key="template.data.language.configurable"
+                         bundle="messages.LangBundle"
+                         instance="com.intellij.psi.templateLanguages.TemplateDataLanguageConfigurable"/>
+    <projectConfigurable groupId="project"
+                         dynamic="true"
+                         id="web-ide.project.structure"
+                         displayName="Directories"
+                         instance="com.intellij.webcore.resourceRoots.WebIdeProjectStructureWithSourceConfigurable" order="first" nonDefaultProject="true"/>
 
     <psi.fileReferenceHelper implementation="com.intellij.webcore.resourceRoots.WebIdeFileReferenceHelper"/>
-    <codeStyleSettingsProvider implementation="com.intellij.application.options.CommonCodeStyleSettingsProvider"/>
     <diffPreviewProvider implementation="org.jetbrains.plugins.phpstorm.PSDiffPreviewProvider"/>
 
     <applicationService serviceInterface="com.intellij.openapi.keymap.impl.DefaultKeymap"
                         serviceImplementation="com.intellij.openapi.keymap.impl.GenericKeymapManager"
                         overrides="true"/>
 
-    <projectService serviceInterface="com.intellij.webcore.resourceRoots.WebResourcesPathsConfiguration"
-                    serviceImplementation="com.intellij.webcore.resourceRoots.WebResourcesPathsConfiguration"/>
     <psi.fileReferenceHelper implementation="com.intellij.webcore.resourceRoots.WebResourceFileReferenceHelper"/>
     <fileTypeFactory implementation="com.intellij.openapi.file.exclude.EnforcedPlainTextFileTypeFactory"/>
     <applicationService serviceInterface="com.intellij.openapi.file.exclude.EnforcedPlainTextFileTypeManager"
@@ -65,12 +73,13 @@
     <bundledColorScheme path="/colorSchemes/all_hallows_eve"/>
     <bundledColorScheme path="/colorSchemes/blackboard"/>
     <bundledColorScheme path="/colorSchemes/cobalt"/>
-    <bundledColorScheme path="/colorSchemes/Darcula"/>
     <bundledColorScheme path="/colorSchemes/monokai"/>
     <bundledColorScheme path="/colorSchemes/rails_casts"/>
     <bundledColorScheme path="/colorSchemes/twilight"/>
     <bundledColorScheme path="/colorSchemes/vibrant_ink"/>
     <bundledColorScheme path="/colorSchemes/WarmNeon"/>
+    <bundledColorScheme path="/colorSchemes/PhpStorm_Solarized_Light"/>
+    <bundledColorScheme path="/colorSchemes/PhpStorm_Solarized_Dark"/>
   </extensions>
 
   <application-components>
@@ -78,12 +87,12 @@
       <implementation-class>org.jetbrains.plugins.phpstorm.PhpStormInitialConfigurator</implementation-class>
       <headless-implementation-class/>
     </component>
+    <component>
+      <implementation-class>com.intellij.internal.statistic.updater.SendStatisticsComponent</implementation-class>
+    </component>
   </application-components>
 
   <project-components>
-    <component>
-      <implementation-class>com.intellij.internal.statistic.updater.SendStatisticsProjectComponent</implementation-class>
-    </component>
     <component>
       <interface-class>com.intellij.coverage.CoverageDataManager</interface-class>
       <implementation-class>com.intellij.coverage.CoverageDataManagerImpl</implementation-class>
@@ -107,7 +116,7 @@
     <action id="PhpStormTutorials" class="com.jetbrains.php.actions.PhpOpenTutorialsAction" text="Tutorials" description="Open PhpStorm tutorials">
       <add-to-group group-id="HelpMenu" anchor="after" relative-to-action="HelpTopics"/>
     </action>
-    <action id="PhpStormNewIssue" class="com.jetbrains.php.actions.PhpReportIssueAction" text="Report an issue">
+    <action id="PhpStormNewIssue" class="com.jetbrains.php.actions.PhpRequestSupportAction" text="New Support Request">
       <add-to-group group-id="HelpMenu" anchor="after" relative-to-action="TechnicalSupport"/>
     </action>
 
@@ -158,6 +167,7 @@
       <separator/>
       <add-to-group group-id="ToolsMenu" anchor="last"/>
     </group>
+
   </actions>
   <extensions defaultExtensionNs="org.jetbrains">
     <webServerRootsProvider implementation="com.intellij.webcore.resourceRoots.WebIdeWebServerRootsProvider" order="first"/>
