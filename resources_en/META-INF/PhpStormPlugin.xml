@@ -33,7 +33,7 @@
 
     <projectViewPane implementation="com.intellij.ide.projectView.impl.ProjectViewPane"/>
     <!--<projectAttachProcessor implementation="com.intellij.platform.ModuleAttachProcessor"/>-->
-    <applicationConfigurable groupId="build"
+    <applicationConfigurable groupId="appearance" groupWeight="-10"
                              id="preferences.pathVariables"
                              key="title.path.variables"
                              bundle="messages.ApplicationBundle"
@@ -42,6 +42,7 @@
                          id="Template Data Languages"
                          key="template.data.language.configurable"
                          bundle="messages.LangBundle"
+                         nonDefaultProject="true"
                          instance="com.intellij.psi.templateLanguages.TemplateDataLanguageConfigurable"/>
     <projectConfigurable groupId="project"
                          dynamic="true"
@@ -166,6 +167,23 @@
       <reference ref="CoverageMenu"/>
       <separator/>
       <add-to-group group-id="ToolsMenu" anchor="last"/>
+    </group>
+
+    <group id="PhpSlice">
+      <!-- is it a proper way? try on other languages-->
+      <action id="PhpSliceForward"
+              class="com.intellij.slicer.SliceForwardAction"
+              text="Analyze Data Flow _from Here"
+              description="Search for values escaped from this location">
+
+      </action>
+
+      <action id="PhpSliceBackward"
+              class="com.intellij.slicer.SliceBackwardAction"
+              text="Analyze Data Flow _to Here"
+              description="Search for values which can be assigned to selected expression">
+      </action>
+     <add-to-group group-id="InspectCodeGroup" anchor="last"/>
     </group>
 
   </actions>
