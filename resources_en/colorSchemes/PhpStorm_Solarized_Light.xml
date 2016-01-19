@@ -634,6 +634,11 @@
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+      </value>
+    </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -1517,6 +1522,7 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
