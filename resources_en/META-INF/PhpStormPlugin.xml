@@ -186,6 +186,9 @@
      <add-to-group group-id="InspectCodeGroup" anchor="last"/>
     </group>
 
+    <action id="RerunFailedTests" class="com.intellij.execution.testframework.actions.RerunFailedTestsAction"
+            icon="AllIcons.RunConfigurations.RerunFailedTests"/>
+
   </actions>
   <extensions defaultExtensionNs="org.jetbrains">
     <webServerRootsProvider implementation="com.intellij.webcore.resourceRoots.WebIdeWebServerRootsProvider" order="first"/>
