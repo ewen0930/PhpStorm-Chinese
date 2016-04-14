@@ -17,3 +17,7 @@
 ----------
 
 **markdown 插件乱码**的问题参见[WebStorm汉化包](https://github.com/ewen0930/WebStorm-Chinese)里说明
+
+
+
+同系列：[WebStorm 中文语言包](https://github.com/ewen0930/WebStorm-Chinese) 和 [PyCharm 中文语言包](https://github.com/ewen0930/PyCharm-Chinese)
