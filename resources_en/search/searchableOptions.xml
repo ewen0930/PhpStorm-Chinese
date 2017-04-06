@@ -271,9 +271,9 @@
     <option name="version" hit="Current version" />
     <option name="checked" hit="Last checked" />
     <option name="last" hit="Last checked" />
-    <option name="1" hit="PhpStorm 2017.1" />
-    <option name="2017" hit="PhpStorm 2017.1" />
-    <option name="phpstorm" hit="PhpStorm 2017.1" />
+    <option name="1" hit="PhpStorm 2017.1.1" />
+    <option name="2017" hit="PhpStorm 2017.1.1" />
+    <option name="phpstorm" hit="PhpStorm 2017.1.1" />
     <option name="channel" hit="Please note that this channel is less stable than your current one." />
     <option name="current" hit="Please note that this channel is less stable than your current one." />
     <option name="is" hit="Please note that this channel is less stable than your current one." />
@@ -2081,6 +2081,8 @@
     <option name="copy" path="ActionManager" hit="Copy" />
     <option name="configuration" path="ActionManager" hit="Copy Configuration" />
     <option name="copy" path="ActionManager" hit="Copy Configuration" />
+    <option name="copy" path="ActionManager" hit="Copy Data..." />
+    <option name="data" path="ActionManager" hit="Copy Data..." />
     <option name="clipboard" path="ActionManager" hit="Copy ID of the selected container into clipboard" />
     <option name="container" path="ActionManager" hit="Copy ID of the selected container into clipboard" />
     <option name="copy" path="ActionManager" hit="Copy ID of the selected container into clipboard" />
@@ -3591,9 +3593,9 @@
     <option name="startup" path="ActionManager" hit="Force rebuild of all caches and indices on next startup" />
     <option name="foreign" path="ActionManager" hit="Foreign Key" />
     <option name="key" path="ActionManager" hit="Foreign Key" />
-    <option name="cached" path="ActionManager" hit="Forget Cached Schema" />
-    <option name="forget" path="ActionManager" hit="Forget Cached Schema" />
-    <option name="schema" path="ActionManager" hit="Forget Cached Schema" />
+    <option name="cached" path="ActionManager" hit="Forget Cached Schemas" />
+    <option name="forget" path="ActionManager" hit="Forget Cached Schemas" />
+    <option name="schemas" path="ActionManager" hit="Forget Cached Schemas" />
     <option name="forward" path="ActionManager" hit="Forward" />
     <option name="from" path="ActionManager" hit="From Template" />
     <option name="template" path="ActionManager" hit="From Template" />
@@ -4358,8 +4360,11 @@
     <option name="notifications" path="ActionManager" hit="Mark all unread notifications as read" />
     <option name="read" path="ActionManager" hit="Mark all unread notifications as read" />
     <option name="unread" path="ActionManager" hit="Mark all unread notifications as read" />
-    <option name="as" path="ActionManager" hit="Mark as" />
-    <option name="mark" path="ActionManager" hit="Mark as" />
+    <option name="as" path="ActionManager" hit="Mark as Original File Type" />
+    <option name="file" path="ActionManager" hit="Mark as Original File Type" />
+    <option name="mark" path="ActionManager" hit="Mark as Original File Type" />
+    <option name="original" path="ActionManager" hit="Mark as Original File Type" />
+    <option name="type" path="ActionManager" hit="Mark as Original File Type" />
     <option name="as" path="ActionManager" hit="Mark as Plain Text" />
     <option name="mark" path="ActionManager" hit="Mark as Plain Text" />
     <option name="plain" path="ActionManager" hit="Mark as Plain Text" />
@@ -10297,6 +10302,7 @@
     <option name="fields" hit="Classes and Fields//Static Field" />
     <option name="static" hit="Classes and Fields//Static Field" />
     <option name="comments" hit="Comments" />
+    <option name="concatenation" hit="Concatenation" />
     <option name="and" hit="Functions and Methods//Declaration" />
     <option name="declaration" hit="Functions and Methods//Declaration" />
     <option name="functions" hit="Functions and Methods//Declaration" />
@@ -12571,6 +12577,16 @@
     <option name="modifier" path="Other" hit="Use 'public' modifier" />
     <option name="public" path="Other" hit="Use 'public' modifier" />
     <option name="use" path="Other" hit="Use 'public' modifier" />
+    <option name="or" path="Imports" hit="Use paths relative to the project, resource or sources roots" />
+    <option name="paths" path="Imports" hit="Use paths relative to the project, resource or sources roots" />
+    <option name="project" path="Imports" hit="Use paths relative to the project, resource or sources roots" />
+    <option name="relative" path="Imports" hit="Use paths relative to the project, resource or sources roots" />
+    <option name="resource" path="Imports" hit="Use paths relative to the project, resource or sources roots" />
+    <option name="roots" path="Imports" hit="Use paths relative to the project, resource or sources roots" />
+    <option name="sources" path="Imports" hit="Use paths relative to the project, resource or sources roots" />
+    <option name="the" path="Imports" hit="Use paths relative to the project, resource or sources roots" />
+    <option name="to" path="Imports" hit="Use paths relative to the project, resource or sources roots" />
+    <option name="use" path="Imports" hit="Use paths relative to the project, resource or sources roots" />
     <option name="character" path="Tabs and Indents" hit="Use tab character" />
     <option name="tab" path="Tabs and Indents" hit="Use tab character" />
     <option name="use" path="Tabs and Indents" hit="Use tab character" />
@@ -12852,6 +12868,10 @@
     <option name="in" hit="In Ternary Operator (?:)" />
     <option name="operator" hit="In Ternary Operator (?:)" />
     <option name="ternary" hit="In Ternary Operator (?:)" />
+    <option name="arrow" hit="In async arrow function " />
+    <option name="async" hit="In async arrow function " />
+    <option name="function" hit="In async arrow function " />
+    <option name="in" hit="In async arrow function " />
     <option name="class" hit="In class declaration" />
     <option name="declaration" hit="In class declaration" />
     <option name="in" hit="In class declaration" />
@@ -12975,6 +12995,10 @@
     <option name="--" hit="Unary operators (!, -, +, ++, --)" />
     <option name="operators" hit="Unary operators (!, -, +, ++, --)" />
     <option name="unary" hit="Unary operators (!, -, +, ++, --)" />
+    <option name="and" hit="Union and intersection types" />
+    <option name="intersection" hit="Union and intersection types" />
+    <option name="types" hit="Union and intersection types" />
+    <option name="union" hit="Union and intersection types" />
     <option name="declarations" hit="Variable declarations" />
     <option name="variable" hit="Variable declarations" />
     <option name="within" hit="Within" />
@@ -13675,6 +13699,11 @@
     <option name="align" path="Other" hit="Do not align" />
     <option name="do" path="Other" hit="Do not align" />
     <option name="not" path="Other" hit="Do not align" />
+    <option name="do" path="Imports" hit="Do not import exactly from:" />
+    <option name="exactly" path="Imports" hit="Do not import exactly from:" />
+    <option name="from" path="Imports" hit="Do not import exactly from:" />
+    <option name="import" path="Imports" hit="Do not import exactly from:" />
+    <option name="not" path="Imports" hit="Do not import exactly from:" />
     <option name="field" path="Other" hit="Field prefix:" />
     <option name="prefix" path="Other" hit="Field prefix:" />
     <option name="code" path="Other" hit="Generated code" />
@@ -14029,6 +14058,10 @@
     <option name="in" hit="In Ternary Operator (?:)" />
     <option name="operator" hit="In Ternary Operator (?:)" />
     <option name="ternary" hit="In Ternary Operator (?:)" />
+    <option name="arrow" hit="In async arrow function " />
+    <option name="async" hit="In async arrow function " />
+    <option name="function" hit="In async arrow function " />
+    <option name="in" hit="In async arrow function " />
     <option name="class" hit="In class declaration" />
     <option name="declaration" hit="In class declaration" />
     <option name="in" hit="In class declaration" />
@@ -14731,6 +14764,10 @@
     <option name="in" hit="In Ternary Operator (?:)" />
     <option name="operator" hit="In Ternary Operator (?:)" />
     <option name="ternary" hit="In Ternary Operator (?:)" />
+    <option name="arrow" hit="In async arrow function " />
+    <option name="async" hit="In async arrow function " />
+    <option name="function" hit="In async arrow function " />
+    <option name="in" hit="In async arrow function " />
     <option name="class" hit="In class declaration" />
     <option name="declaration" hit="In class declaration" />
     <option name="in" hit="In class declaration" />
