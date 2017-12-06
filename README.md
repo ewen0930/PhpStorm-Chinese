@@ -20,4 +20,6 @@
 
 
 
-同系列：[WebStorm 中文语言包](https://github.com/ewen0930/WebStorm-Chinese) 和 [PyCharm 中文语言包](https://github.com/ewen0930/PyCharm-Chinese)
+同系列：[WebStorm 中文语言包](https://github.com/ewen0930/WebStorm-Chinese) 、 [PyCharm 中文语言包](https://github.com/ewen0930/PyCharm-Chinese) 和 [IDEA 中文语言包](https://github.com/ewen0930/IDEA-Chinese)
+
+另外由 @pingfangx 汉化的 Android Studio 在[这里](https://github.com/pingfangx/TranslatorX/releases)
