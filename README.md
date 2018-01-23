@@ -10,6 +10,8 @@
 
 ![image](images/screen-01.jpg)
 
+![image](images/screen-03.jpg)
+
 
 ###增加了繁体中文支持（工具扫描翻译，有误还请见谅）
 
