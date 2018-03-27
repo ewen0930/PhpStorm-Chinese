@@ -10,6 +10,8 @@
 
 ![image](images/screen-01.jpg)
 
+![image](images/screen-03.jpg)
+
 
 ###增加了繁体中文支持（工具扫描翻译，有误还请见谅）
 
@@ -20,4 +22,6 @@
 
 
 
-同系列：[WebStorm 中文语言包](https://github.com/ewen0930/WebStorm-Chinese) 和 [PyCharm 中文语言包](https://github.com/ewen0930/PyCharm-Chinese)
+同系列：[WebStorm 中文语言包](https://github.com/ewen0930/WebStorm-Chinese) 、 [PyCharm 中文语言包](https://github.com/ewen0930/PyCharm-Chinese) 和 [IDEA 中文语言包](https://github.com/ewen0930/IDEA-Chinese)
+
+另外由 @pingfangx 汉化的 Android Studio 在[这里](https://github.com/pingfangx/TranslatorX/releases)
