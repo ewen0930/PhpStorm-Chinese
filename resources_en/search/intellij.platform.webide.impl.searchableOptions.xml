@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="excluded" path="ActionManager" hit="Excluded" />
+    <option name="a" path="ActionManager" hit="Mark directory as a sources root" />
+    <option name="as" path="ActionManager" hit="Mark directory as a sources root" />
+    <option name="directory" path="ActionManager" hit="Mark directory as a sources root" />
+    <option name="mark" path="ActionManager" hit="Mark directory as a sources root" />
+    <option name="root" path="ActionManager" hit="Mark directory as a sources root" />
+    <option name="sources" path="ActionManager" hit="Mark directory as a sources root" />
+    <option name="resource" path="ActionManager" hit="Resource Root" />
+    <option name="root" path="ActionManager" hit="Resource Root" />
+    <option name="root" path="ActionManager" hit="Sources Root" />
+    <option name="sources" path="ActionManager" hit="Sources Root" />
+    <option name="as" path="ActionManager" hit="Unmark as Resource Root" />
+    <option name="resource" path="ActionManager" hit="Unmark as Resource Root" />
+    <option name="root" path="ActionManager" hit="Unmark as Resource Root" />
+    <option name="unmark" path="ActionManager" hit="Unmark as Resource Root" />
+  </configurable>
+</options>
+
