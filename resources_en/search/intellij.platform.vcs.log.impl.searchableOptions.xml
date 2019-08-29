@@ -3,8 +3,9 @@
   <configurable id="preferences.keymap" configurable_name="Keymap">
     <option name="" path="ActionManager" hit="" />
     <option name="annotate" path="ActionManager" hit="Annotate" />
-    <option name="annotate" path="ActionManager" hit="Annotate Revision" />
-    <option name="revision" path="ActionManager" hit="Annotate Revision" />
+    <option name="annotate" path="ActionManager" hit="Annotate selected revision" />
+    <option name="revision" path="ActionManager" hit="Annotate selected revision" />
+    <option name="selected" path="ActionManager" hit="Annotate selected revision" />
     <option name="and" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
     <option name="check" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
     <option name="commits" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
@@ -30,6 +31,14 @@
     <option name="versions" path="ActionManager" hit="Compare selected versions" />
     <option name="configure" path="ActionManager" hit="Configure Layout" />
     <option name="layout" path="ActionManager" hit="Configure Layout" />
+    <option name="configure" path="ActionManager" hit="Configure presentation of the Log" />
+    <option name="log" path="ActionManager" hit="Configure presentation of the Log" />
+    <option name="of" path="ActionManager" hit="Configure presentation of the Log" />
+    <option name="presentation" path="ActionManager" hit="Configure presentation of the Log" />
+    <option name="the" path="ActionManager" hit="Configure presentation of the Log" />
+    <option name="configure" path="ActionManager" hit="Configure window layout" />
+    <option name="layout" path="ActionManager" hit="Configure window layout" />
+    <option name="window" path="ActionManager" hit="Configure window layout" />
     <option name="changes" path="ActionManager" hit="Display changes to each merged commit separately" />
     <option name="commit" path="ActionManager" hit="Display changes to each merged commit separately" />
     <option name="display" path="ActionManager" hit="Display changes to each merged commit separately" />
@@ -77,6 +86,16 @@
     <option name="go" path="ActionManager" hit="Go to Parent Commit" />
     <option name="parent" path="ActionManager" hit="Go to Parent Commit" />
     <option name="to" path="ActionManager" hit="Go to Parent Commit" />
+    <option name="as" path="ActionManager" hit="Indexing was paused as it took longer than expected. Resume." />
+    <option name="expected" path="ActionManager" hit="Indexing was paused as it took longer than expected. Resume." />
+    <option name="indexing" path="ActionManager" hit="Indexing was paused as it took longer than expected. Resume." />
+    <option name="it" path="ActionManager" hit="Indexing was paused as it took longer than expected. Resume." />
+    <option name="longer" path="ActionManager" hit="Indexing was paused as it took longer than expected. Resume." />
+    <option name="paused" path="ActionManager" hit="Indexing was paused as it took longer than expected. Resume." />
+    <option name="resume" path="ActionManager" hit="Indexing was paused as it took longer than expected. Resume." />
+    <option name="than" path="ActionManager" hit="Indexing was paused as it took longer than expected. Resume." />
+    <option name="took" path="ActionManager" hit="Indexing was paused as it took longer than expected. Resume." />
+    <option name="was" path="ActionManager" hit="Indexing was paused as it took longer than expected. Resume." />
     <option name="intellisort" path="ActionManager" hit="IntelliSort" />
     <option name="case" path="ActionManager" hit="Match Case" />
     <option name="match" path="ActionManager" hit="Match Case" />
@@ -112,6 +131,12 @@
     <option name="settings" path="ActionManager" hit="Presentation Settings" />
     <option name="refresh" path="ActionManager" hit="Refresh" />
     <option name="regex" path="ActionManager" hit="Regex" />
+    <option name="indexing" path="ActionManager" hit="Resume Indexing" />
+    <option name="resume" path="ActionManager" hit="Resume Indexing" />
+    <option name="filter" path="ActionManager" hit="Select text filter options" />
+    <option name="options" path="ActionManager" hit="Select text filter options" />
+    <option name="select" path="ActionManager" hit="Select text filter options" />
+    <option name="text" path="ActionManager" hit="Select text filter options" />
     <option name="affected" path="ActionManager" hit="Show All Affected Files" />
     <option name="all" path="ActionManager" hit="Show All Affected Files" />
     <option name="files" path="ActionManager" hit="Show All Affected Files" />
@@ -123,6 +148,8 @@
     <option name="parents" path="ActionManager" hit="Show Changes to Parents" />
     <option name="show" path="ActionManager" hit="Show Changes to Parents" />
     <option name="to" path="ActionManager" hit="Show Changes to Parents" />
+    <option name="columns" path="ActionManager" hit="Show Columns" />
+    <option name="show" path="ActionManager" hit="Show Columns" />
     <option name="commit" path="ActionManager" hit="Show Commit Tooltip" />
     <option name="show" path="ActionManager" hit="Show Commit Tooltip" />
     <option name="tooltip" path="ActionManager" hit="Show Commit Tooltip" />
@@ -135,6 +162,11 @@
     <option name="panel" path="ActionManager" hit="Show Diff Preview Panel" />
     <option name="preview" path="ActionManager" hit="Show Diff Preview Panel" />
     <option name="show" path="ActionManager" hit="Show Diff Preview Panel" />
+    <option name="diff" path="ActionManager" hit="Show Diff Preview in Editor" />
+    <option name="editor" path="ActionManager" hit="Show Diff Preview in Editor" />
+    <option name="in" path="ActionManager" hit="Show Diff Preview in Editor" />
+    <option name="preview" path="ActionManager" hit="Show Diff Preview in Editor" />
+    <option name="show" path="ActionManager" hit="Show Diff Preview in Editor" />
     <option name="at" path="ActionManager" hit="Show File at Revision" />
     <option name="file" path="ActionManager" hit="Show File at Revision" />
     <option name="revision" path="ActionManager" hit="Show File at Revision" />

@@ -5,6 +5,8 @@
     <option name="add" path="ActionManager" hit="Add to VCS" />
     <option name="to" path="ActionManager" hit="Add to VCS" />
     <option name="vcs" path="ActionManager" hit="Add to VCS" />
+    <option name="amend" path="ActionManager" hit="Amend Commit" />
+    <option name="commit" path="ActionManager" hit="Amend Commit" />
     <option name="annotate" path="ActionManager" hit="Annotate" />
     <option name="annotate" path="ActionManager" hit="Annotate file" />
     <option name="file" path="ActionManager" hit="Annotate file" />
@@ -44,12 +46,12 @@
     <option name="actions" path="ActionManager" hit="Change Navigation Actions" />
     <option name="change" path="ActionManager" hit="Change Navigation Actions" />
     <option name="navigation" path="ActionManager" hit="Change Navigation Actions" />
+    <option name="caret" path="ActionManager" hit="Change Under Caret" />
+    <option name="change" path="ActionManager" hit="Change Under Caret" />
+    <option name="under" path="ActionManager" hit="Change Under Caret" />
     <option name="change" path="ActionManager" hit="Change filtering criteria" />
     <option name="criteria" path="ActionManager" hit="Change filtering criteria" />
     <option name="filtering" path="ActionManager" hit="Change filtering criteria" />
-    <option name="caret" path="ActionManager" hit="Change under caret" />
-    <option name="change" path="ActionManager" hit="Change under caret" />
-    <option name="under" path="ActionManager" hit="Change under caret" />
     <option name="changelists" path="ActionManager" hit="Changelists" />
     <option name="check" path="ActionManager" hit="Check Out" />
     <option name="out" path="ActionManager" hit="Check Out" />
@@ -207,13 +209,6 @@
     <option name="delete" path="ActionManager" hit="Delete unshelved changelists" />
     <option name="unshelved" path="ActionManager" hit="Delete unshelved changelists" />
     <option name="directory" path="ActionManager" hit="Directory" />
-    <option name="as" path="ActionManager" hit="Do not show selected files as unversioned" />
-    <option name="do" path="ActionManager" hit="Do not show selected files as unversioned" />
-    <option name="files" path="ActionManager" hit="Do not show selected files as unversioned" />
-    <option name="not" path="ActionManager" hit="Do not show selected files as unversioned" />
-    <option name="selected" path="ActionManager" hit="Do not show selected files as unversioned" />
-    <option name="show" path="ActionManager" hit="Do not show selected files as unversioned" />
-    <option name="unversioned" path="ActionManager" hit="Do not show selected files as unversioned" />
     <option name="changelist" path="ActionManager" hit="Edit Changelist..." />
     <option name="edit" path="ActionManager" hit="Edit Changelist..." />
     <option name="edit" path="ActionManager" hit="Edit Source" />
@@ -251,7 +246,6 @@
     <option name="history" path="ActionManager" hit="History Up to Here" />
     <option name="to" path="ActionManager" hit="History Up to Here" />
     <option name="up" path="ActionManager" hit="History Up to Here" />
-    <option name="ignore" path="ActionManager" hit="Ignore..." />
     <option name="import" path="ActionManager" hit="Import Patches..." />
     <option name="patches" path="ActionManager" hit="Import Patches..." />
     <option name="integrate" path="ActionManager" hit="Integrate" />
@@ -265,6 +259,14 @@
     <option name="or" path="ActionManager" hit="Integrate selected files or directories" />
     <option name="selected" path="ActionManager" hit="Integrate selected files or directories" />
     <option name="log" path="ActionManager" hit="Log" />
+    <option name="branch" path="ActionManager" hit="Modify the latest commit of the current branch" />
+    <option name="commit" path="ActionManager" hit="Modify the latest commit of the current branch" />
+    <option name="current" path="ActionManager" hit="Modify the latest commit of the current branch" />
+    <option name="latest" path="ActionManager" hit="Modify the latest commit of the current branch" />
+    <option name="modify" path="ActionManager" hit="Modify the latest commit of the current branch" />
+    <option name="of" path="ActionManager" hit="Modify the latest commit of the current branch" />
+    <option name="the" path="ActionManager" hit="Modify the latest commit of the current branch" />
+    <option name="module" path="ActionManager" hit="Module" />
     <option name="another" path="ActionManager" hit="Move Lines to Another Changelist..." />
     <option name="changelist" path="ActionManager" hit="Move Lines to Another Changelist..." />
     <option name="lines" path="ActionManager" hit="Move Lines to Another Changelist..." />
@@ -429,6 +431,9 @@
     <option name="shelve" path="ActionManager" hit="Shelve changes to appropriate shelved changelists" />
     <option name="shelved" path="ActionManager" hit="Shelve changes to appropriate shelved changelists" />
     <option name="to" path="ActionManager" hit="Shelve changes to appropriate shelved changelists" />
+    <option name="commit" path="ActionManager" hit="Show Commit Options" />
+    <option name="options" path="ActionManager" hit="Show Commit Options" />
+    <option name="show" path="ActionManager" hit="Show Commit Options" />
     <option name="current" path="ActionManager" hit="Show Current Revision" />
     <option name="revision" path="ActionManager" hit="Show Current Revision" />
     <option name="show" path="ActionManager" hit="Show Current Revision" />
@@ -493,15 +498,15 @@
     <option name="modification" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
     <option name="show" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
     <option name="the" path="ActionManager" hit="Show the latest modification date and author for each line (also known as &quot;Blame&quot;)" />
-    <option name="already" path="ActionManager" hit="Show/Hide Already Unshelved" />
-    <option name="hide" path="ActionManager" hit="Show/Hide Already Unshelved" />
-    <option name="show" path="ActionManager" hit="Show/Hide Already Unshelved" />
-    <option name="unshelved" path="ActionManager" hit="Show/Hide Already Unshelved" />
     <option name="applied" path="ActionManager" hit="Show/Hide Applied Shelved Changes" />
     <option name="changes" path="ActionManager" hit="Show/Hide Applied Shelved Changes" />
     <option name="hide" path="ActionManager" hit="Show/Hide Applied Shelved Changes" />
     <option name="shelved" path="ActionManager" hit="Show/Hide Applied Shelved Changes" />
     <option name="show" path="ActionManager" hit="Show/Hide Applied Shelved Changes" />
+    <option name="already" path="ActionManager" hit="Show/Hide already unshelved" />
+    <option name="hide" path="ActionManager" hit="Show/Hide already unshelved" />
+    <option name="show" path="ActionManager" hit="Show/Hide already unshelved" />
+    <option name="unshelved" path="ActionManager" hit="Show/Hide already unshelved" />
     <option name="file" path="ActionManager" hit="Synchronize selected file" />
     <option name="selected" path="ActionManager" hit="Synchronize selected file" />
     <option name="synchronize" path="ActionManager" hit="Synchronize selected file" />
@@ -653,17 +658,9 @@
     <option name="of" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
     <option name="project" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
     <option name="roots" hit=" &amp;lt;Project&amp;gt; - Content roots of all modules, and all immediate descendants of project base directory " />
-    <option name="by" hit="Filter Update Project information by scope" />
-    <option name="filter" hit="Filter Update Project information by scope" />
-    <option name="information" hit="Filter Update Project information by scope" />
-    <option name="project" hit="Filter Update Project information by scope" />
-    <option name="scope" hit="Filter Update Project information by scope" />
-    <option name="update" hit="Filter Update Project information by scope" />
     <option name="history" hit="Limit history to: " />
     <option name="limit" hit="Limit history to: " />
     <option name="to" hit="Limit history to: " />
-    <option name="manage" hit="Manage Scopes" />
-    <option name="scopes" hit="Manage Scopes" />
     <option name="changed" hit="Show changed in last" />
     <option name="in" hit="Show changed in last" />
     <option name="last" hit="Show changed in last" />
@@ -741,6 +738,23 @@
     <option name="minutes" hit="minutes" />
   </configurable>
   <configurable id="project.propVCSSupport.CommitDialog" configurable_name="Commit Dialog">
+    <option name="" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="589df6" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="800080" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="a" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="active" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="and" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="applies" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="color" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="f00000" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="git" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="hover" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="link" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="mercurial" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="projects" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="to" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="under" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
+    <option name="visited" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Applies to projects under Git and Mercurial   " />
     <option name="" hit=" Optimize imports" />
     <option name="imports" hit=" Optimize imports" />
     <option name="optimize" hit=" Optimize imports" />
@@ -762,6 +776,14 @@
     <option name="message" hit="Clear initial commit message" />
     <option name="commit" hit="Commit Dialog" />
     <option name="dialog" hit="Commit Dialog" />
+    <option name="changes" hit="Commit from Local Changes without showing the Commit dialog" />
+    <option name="commit" hit="Commit from Local Changes without showing the Commit dialog" />
+    <option name="dialog" hit="Commit from Local Changes without showing the Commit dialog" />
+    <option name="from" hit="Commit from Local Changes without showing the Commit dialog" />
+    <option name="local" hit="Commit from Local Changes without showing the Commit dialog" />
+    <option name="showing" hit="Commit from Local Changes without showing the Commit dialog" />
+    <option name="the" hit="Commit from Local Changes without showing the Commit dialog" />
+    <option name="without" hit="Commit from Local Changes without showing the Commit dialog" />
     <option name="commit" hit="Commit message inspections" />
     <option name="inspections" hit="Commit message inspections" />
     <option name="message" hit="Commit message inspections" />
@@ -838,9 +860,6 @@
     <option name="external" hit="Including external files" />
     <option name="files" hit="Including external files" />
     <option name="including" hit="Including external files" />
-    <option name="files" hit="Manage ignore files" />
-    <option name="ignore" hit="Manage ignore files" />
-    <option name="manage" hit="Manage ignore files" />
     <option name="no" hit="No" />
     <option name="remove" hit="Remove" />
     <option name="remove" hit="Remove silently" />

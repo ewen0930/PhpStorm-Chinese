@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="duplicates.index" configurable_name="Duplicates">
+    <option name="attribute" hit="Attribute values" />
+    <option name="values" hit="Attribute values" />
+    <option name="constant" hit="Constant values" />
+    <option name="values" hit="Constant values" />
+    <option name="detect" hit="Detect duplicates with different:" />
+    <option name="different" hit="Detect duplicates with different:" />
+    <option name="duplicates" hit="Detect duplicates with different:" />
+    <option name="with" hit="Detect duplicates with different:" />
+    <option name="duplicates" hit="Duplicates" />
+    <option name="field" hit="Function or field names" />
+    <option name="function" hit="Function or field names" />
+    <option name="names" hit="Function or field names" />
+    <option name="or" hit="Function or field names" />
+    <option name="names" hit="Property names" />
+    <option name="property" hit="Property names" />
+    <option name="property" hit="Property values" />
+    <option name="values" hit="Property values" />
+    <option name="attribute" hit="Tag or attribute names" />
+    <option name="names" hit="Tag or attribute names" />
+    <option name="or" hit="Tag or attribute names" />
+    <option name="tag" hit="Tag or attribute names" />
+    <option name="texts" hit="Texts" />
+    <option name="identifier" hit="Variable or identifier names" />
+    <option name="names" hit="Variable or identifier names" />
+    <option name="or" hit="Variable or identifier names" />
+    <option name="variable" hit="Variable or identifier names" />
+  </configurable>
+</options>
+

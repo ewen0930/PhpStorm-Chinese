@@ -14,14 +14,20 @@
     <option name="failed" path="ActionManager" hit="Rerun Failed Tests" />
     <option name="rerun" path="ActionManager" hit="Rerun Failed Tests" />
     <option name="tests" path="ActionManager" hit="Rerun Failed Tests" />
-    <option name="after" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
-    <option name="crashed" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
-    <option name="failed" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
-    <option name="last" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
-    <option name="only" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
-    <option name="run" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
-    <option name="tests" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
-    <option name="that" path="ActionManager" hit="Run only tests that failed/crashed after last run" />
+    <option name="after" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
+    <option name="choose" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
+    <option name="crashed" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
+    <option name="debug" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
+    <option name="failed" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
+    <option name="last" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
+    <option name="mode" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
+    <option name="only" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
+    <option name="press" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
+    <option name="run" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
+    <option name="shift" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
+    <option name="tests" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
+    <option name="that" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
+    <option name="to" path="ActionManager" hit="Run only tests that failed/crashed after last run; press Shift to choose Run/Debug mode" />
     <option name="assertequals" path="ActionManager" hit="View assertEquals Difference" />
     <option name="difference" path="ActionManager" hit="View assertEquals Difference" />
     <option name="view" path="ActionManager" hit="View assertEquals Difference" />

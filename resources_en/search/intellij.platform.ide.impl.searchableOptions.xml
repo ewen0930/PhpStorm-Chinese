@@ -107,6 +107,10 @@
     <option name="show" hit="Show tool window numbers" />
     <option name="tool" hit="Show tool window numbers" />
     <option name="window" hit="Show tool window numbers" />
+    <option name="guides" hit="Show tree indent guides" />
+    <option name="indent" hit="Show tree indent guides" />
+    <option name="show" hit="Show tree indent guides" />
+    <option name="tree" hit="Show tree indent guides" />
     <option name="layout" hit="Side-by-side layout on the left" />
     <option name="left" hit="Side-by-side layout on the left" />
     <option name="on" hit="Side-by-side layout on the left" />
@@ -252,8 +256,80 @@
     <option name="sec" hit="sec." />
   </configurable>
   <configurable id="consents" configurable_name="Data Sharing">
+    <option name="" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="589df6" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="800080" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="a" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="about" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="active" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="and" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="anonymous" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="any" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="as" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="by" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="code" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="color" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="complies" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="configuration" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="data" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="etc" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="f00000" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="features" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="file" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="files" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="hardware" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="help" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="hover" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="improve" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="include" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="information" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="its" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="jetbrains" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="link" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="names" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="not" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="note" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="number" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="of" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="on" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="or" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="per" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="personal" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="please" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="plugins" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="policy" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="privacy" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="products" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="project" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="sending" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="sensitive" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="sent" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="software" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="source" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="statistics" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="such" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="that" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="the" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="this" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="types" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="used" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="visited" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="will" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
+    <option name="with" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
     <option name="data" hit="Data Sharing" />
     <option name="sharing" hit="Data Sharing" />
+    <option name="all" hit="Data sharing preferences apply to all installed JetBrains products." />
+    <option name="apply" hit="Data sharing preferences apply to all installed JetBrains products." />
+    <option name="data" hit="Data sharing preferences apply to all installed JetBrains products." />
+    <option name="installed" hit="Data sharing preferences apply to all installed JetBrains products." />
+    <option name="jetbrains" hit="Data sharing preferences apply to all installed JetBrains products." />
+    <option name="preferences" hit="Data sharing preferences apply to all installed JetBrains products." />
+    <option name="products" hit="Data sharing preferences apply to all installed JetBrains products." />
+    <option name="sharing" hit="Data sharing preferences apply to all installed JetBrains products." />
+    <option name="to" hit="Data sharing preferences apply to all installed JetBrains products." />
+    <option name="send" hit="Send usage statistics" />
+    <option name="statistics" hit="Send usage statistics" />
+    <option name="usage" hit="Send usage statistics" />
   </configurable>
   <configurable id="preferences.updates" configurable_name="Updates">
     <option name="01" hit="01.05.2005" />
@@ -279,11 +355,12 @@
     <option name="program" hit="Early Access Program" />
     <option name="checked" hit="Last checked" />
     <option name="last" hit="Last checked" />
-    <option name="ps-191" hit="PS-191.SNAPSHOT" />
-    <option name="snapshot" hit="PS-191.SNAPSHOT" />
-    <option name="1" hit="PhpStorm 2019.1" />
-    <option name="2019" hit="PhpStorm 2019.1" />
-    <option name="phpstorm" hit="PhpStorm 2019.1" />
+    <option name="ps-192" hit="PS-192.SNAPSHOT" />
+    <option name="snapshot" hit="PS-192.SNAPSHOT" />
+    <option name="1" hit="PhpStorm 2019.2.1" />
+    <option name="2" hit="PhpStorm 2019.2.1" />
+    <option name="2019" hit="PhpStorm 2019.2.1" />
+    <option name="phpstorm" hit="PhpStorm 2019.2.1" />
     <option name="channel" hit="Please note that this channel is less stable than your current one." />
     <option name="current" hit="Please note that this channel is less stable than your current one." />
     <option name="is" hit="Please note that this channel is less stable than your current one." />
@@ -299,9 +376,6 @@
     <option name="releases" hit="Stable Releases" />
     <option name="stable" hit="Stable Releases" />
     <option name="updates" hit="Updates" />
-    <option name="connection" hit="Use secure connection" />
-    <option name="secure" hit="Use secure connection" />
-    <option name="use" hit="Use secure connection" />
     <option name="edit" hit="View/edit ignored updates" />
     <option name="ignored" hit="View/edit ignored updates" />
     <option name="updates" hit="View/edit ignored updates" />
@@ -495,6 +569,7 @@
     <option name="to" path="ActionManager" hit="Allows to choose a Java version to start the IDE with." />
     <option name="version" path="ActionManager" hit="Allows to choose a Java version to start the IDE with." />
     <option name="with" path="ActionManager" hit="Allows to choose a Java version to start the IDE with." />
+    <option name="appearance" path="ActionManager" hit="Appearance" />
     <option name="attach" path="ActionManager" hit="Attach project..." />
     <option name="project" path="ActionManager" hit="Attach project..." />
     <option name="auto" path="ActionManager" hit="Auto Show" />
@@ -503,13 +578,14 @@
     <option name="background" path="ActionManager" hit="Background Tasks" />
     <option name="tasks" path="ActionManager" hit="Background Tasks" />
     <option name="backspace" path="ActionManager" hit="Backspace" />
-    <option name="bidi" path="ActionManager" hit="Bidi Text Direction" />
-    <option name="direction" path="ActionManager" hit="Bidi Text Direction" />
-    <option name="text" path="ActionManager" hit="Bidi Text Direction" />
-    <option name="bottom" path="ActionManager" hit="Bottom" />
+    <option name="base" path="ActionManager" hit="Bidi Text Base Direction" />
+    <option name="bidi" path="ActionManager" hit="Bidi Text Base Direction" />
+    <option name="direction" path="ActionManager" hit="Bidi Text Base Direction" />
+    <option name="text" path="ActionManager" hit="Bidi Text Base Direction" />
     <option name="browse" path="ActionManager" hit="Browse VCS Repository" />
     <option name="repository" path="ActionManager" hit="Browse VCS Repository" />
     <option name="vcs" path="ActionManager" hit="Browse VCS Repository" />
+    <option name="build" path="ActionManager" hit="Build" />
     <option name="-" path="ActionManager" hit="CR - Classic macOS (\r)" />
     <option name="classic" path="ActionManager" hit="CR - Classic macOS (\r)" />
     <option name="cr" path="ActionManager" hit="CR - Classic macOS (\r)" />
@@ -522,6 +598,9 @@
     <option name="windows" path="ActionManager" hit="CRLF - Windows (\r\n)" />
     <option name="change" path="ActionManager" hit="Change Icon" />
     <option name="icon" path="ActionManager" hit="Change Icon" />
+    <option name="change" path="ActionManager" hit="Change Memory Settings" />
+    <option name="memory" path="ActionManager" hit="Change Memory Settings" />
+    <option name="settings" path="ActionManager" hit="Change Memory Settings" />
     <option name="change" path="ActionManager" hit="Change Splitter Orientation" />
     <option name="orientation" path="ActionManager" hit="Change Splitter Orientation" />
     <option name="splitter" path="ActionManager" hit="Change Splitter Orientation" />
@@ -689,6 +768,10 @@
     <option name="into" path="ActionManager" hit="Compress logs and settings into file" />
     <option name="logs" path="ActionManager" hit="Compress logs and settings into file" />
     <option name="settings" path="ActionManager" hit="Compress logs and settings into file" />
+    <option name="configuration" path="ActionManager" hit="Configuration" />
+    <option name="configure" path="ActionManager" hit="Configure Editor Tabs..." />
+    <option name="editor" path="ActionManager" hit="Configure Editor Tabs..." />
+    <option name="tabs" path="ActionManager" hit="Configure Editor Tabs..." />
     <option name="all" path="ActionManager" hit="Configure default settings for all new Projects" />
     <option name="configure" path="ActionManager" hit="Configure default settings for all new Projects" />
     <option name="default" path="ActionManager" hit="Configure default settings for all new Projects" />
@@ -699,6 +782,15 @@
     <option name="configure" path="ActionManager" hit="Configure existing macros" />
     <option name="existing" path="ActionManager" hit="Configure existing macros" />
     <option name="macros" path="ActionManager" hit="Configure existing macros" />
+    <option name="and" path="ActionManager" hit="Configure the look, behavior and order of editor tabs" />
+    <option name="behavior" path="ActionManager" hit="Configure the look, behavior and order of editor tabs" />
+    <option name="configure" path="ActionManager" hit="Configure the look, behavior and order of editor tabs" />
+    <option name="editor" path="ActionManager" hit="Configure the look, behavior and order of editor tabs" />
+    <option name="look" path="ActionManager" hit="Configure the look, behavior and order of editor tabs" />
+    <option name="of" path="ActionManager" hit="Configure the look, behavior and order of editor tabs" />
+    <option name="order" path="ActionManager" hit="Configure the look, behavior and order of editor tabs" />
+    <option name="tabs" path="ActionManager" hit="Configure the look, behavior and order of editor tabs" />
+    <option name="the" path="ActionManager" hit="Configure the look, behavior and order of editor tabs" />
     <option name="contact" path="ActionManager" hit="Contact Support..." />
     <option name="support" path="ActionManager" hit="Contact Support..." />
     <option name="contact" path="ActionManager" hit="Contact technical support on JetBrains website" />
@@ -710,6 +802,12 @@
     <option name="content-based" path="ActionManager" hit="Content-based" />
     <option name="convert" path="ActionManager" hit="Convert Indents" />
     <option name="indents" path="ActionManager" hit="Convert Indents" />
+    <option name="convert" path="ActionManager" hit="Convert Module Groups to Qualified Names..." />
+    <option name="groups" path="ActionManager" hit="Convert Module Groups to Qualified Names..." />
+    <option name="module" path="ActionManager" hit="Convert Module Groups to Qualified Names..." />
+    <option name="names" path="ActionManager" hit="Convert Module Groups to Qualified Names..." />
+    <option name="qualified" path="ActionManager" hit="Convert Module Groups to Qualified Names..." />
+    <option name="to" path="ActionManager" hit="Convert Module Groups to Qualified Names..." />
     <option name="block" path="ActionManager" hit="Convert the indentation in the file or selected block to use spaces instead of tabs" />
     <option name="convert" path="ActionManager" hit="Convert the indentation in the file or selected block to use spaces instead of tabs" />
     <option name="file" path="ActionManager" hit="Convert the indentation in the file or selected block to use spaces instead of tabs" />
@@ -739,6 +837,8 @@
     <option name="to" path="ActionManager" hit="Convert the indentation in the file or selected block to use tabs instead of spaces" />
     <option name="use" path="ActionManager" hit="Convert the indentation in the file or selected block to use tabs instead of spaces" />
     <option name="copy" path="ActionManager" hit="Copy" />
+    <option name="copy" path="ActionManager" hit="Copy Path" />
+    <option name="path" path="ActionManager" hit="Copy Path" />
     <option name="copy" path="ActionManager" hit="Copy Paths" />
     <option name="paths" path="ActionManager" hit="Copy Paths" />
     <option name="copy" path="ActionManager" hit="Copy Settings Path" />
@@ -844,10 +944,10 @@
     <option name="height" path="ActionManager" hit="Decrement Height" />
     <option name="decrement" path="ActionManager" hit="Decrement Width" />
     <option name="width" path="ActionManager" hit="Decrement Width" />
-    <option name="cmd" path="ActionManager" hit="Default with Cmd key" />
-    <option name="default" path="ActionManager" hit="Default with Cmd key" />
-    <option name="key" path="ActionManager" hit="Default with Cmd key" />
-    <option name="with" path="ActionManager" hit="Default with Cmd key" />
+    <option name="cmd" path="ActionManager" hit="Default with Cmd Key" />
+    <option name="default" path="ActionManager" hit="Default with Cmd Key" />
+    <option name="key" path="ActionManager" hit="Default with Cmd Key" />
+    <option name="with" path="ActionManager" hit="Default with Cmd Key" />
     <option name="delete" path="ActionManager" hit="Delete" />
     <option name="delete" path="ActionManager" hit="Delete Line" />
     <option name="line" path="ActionManager" hit="Delete Line" />
@@ -893,6 +993,10 @@
     <option name="deployment" path="ActionManager" hit="Deployment" />
     <option name="actions" path="ActionManager" hit="Deployment actions" />
     <option name="deployment" path="ActionManager" hit="Deployment actions" />
+    <option name="descriptions" path="ActionManager" hit="Descriptions in Tree Views" />
+    <option name="in" path="ActionManager" hit="Descriptions in Tree Views" />
+    <option name="tree" path="ActionManager" hit="Descriptions in Tree Views" />
+    <option name="views" path="ActionManager" hit="Descriptions in Tree Views" />
     <option name="desktop" path="ActionManager" hit="Desktop Directory" />
     <option name="directory" path="ActionManager" hit="Desktop Directory" />
     <option name="all" path="ActionManager" hit="Detect all externally changed files and reload them from disk" />
@@ -949,6 +1053,8 @@
     <option name="local" path="ActionManager" hit="Edit Local File" />
     <option name="edit" path="ActionManager" hit="Edit Macros" />
     <option name="macros" path="ActionManager" hit="Edit Macros" />
+    <option name="edit" path="ActionManager" hit="Edit Source" />
+    <option name="source" path="ActionManager" hit="Edit Source" />
     <option name="application" path="ActionManager" hit="Edit application settings" />
     <option name="edit" path="ActionManager" hit="Edit application settings" />
     <option name="settings" path="ActionManager" hit="Edit application settings" />
@@ -966,6 +1072,9 @@
     <option name="gutter" path="ActionManager" hit="Editor Gutter Popup Menu" />
     <option name="menu" path="ActionManager" hit="Editor Gutter Popup Menu" />
     <option name="popup" path="ActionManager" hit="Editor Gutter Popup Menu" />
+    <option name="editor" path="ActionManager" hit="Editor Popup Menu" />
+    <option name="menu" path="ActionManager" hit="Editor Popup Menu" />
+    <option name="popup" path="ActionManager" hit="Editor Popup Menu" />
     <option name="actions" path="ActionManager" hit="Editor Select Actions" />
     <option name="editor" path="ActionManager" hit="Editor Select Actions" />
     <option name="select" path="ActionManager" hit="Editor Select Actions" />
@@ -1096,6 +1205,17 @@
     <option name="open" path="ActionManager" hit="File Open Actions" />
     <option name="file" path="ActionManager" hit="File Path" />
     <option name="path" path="ActionManager" hit="File Path" />
+    <option name="about" path="ActionManager" hit="Find out about the new features in this version of the IDE" />
+    <option name="features" path="ActionManager" hit="Find out about the new features in this version of the IDE" />
+    <option name="find" path="ActionManager" hit="Find out about the new features in this version of the IDE" />
+    <option name="ide" path="ActionManager" hit="Find out about the new features in this version of the IDE" />
+    <option name="in" path="ActionManager" hit="Find out about the new features in this version of the IDE" />
+    <option name="new" path="ActionManager" hit="Find out about the new features in this version of the IDE" />
+    <option name="of" path="ActionManager" hit="Find out about the new features in this version of the IDE" />
+    <option name="out" path="ActionManager" hit="Find out about the new features in this version of the IDE" />
+    <option name="the" path="ActionManager" hit="Find out about the new features in this version of the IDE" />
+    <option name="this" path="ActionManager" hit="Find out about the new features in this version of the IDE" />
+    <option name="version" path="ActionManager" hit="Find out about the new features in this version of the IDE" />
     <option name="float" path="ActionManager" hit="Float" />
     <option name="active" path="ActionManager" hit="Float/unfloat active tool window" />
     <option name="float" path="ActionManager" hit="Float/unfloat active tool window" />
@@ -1150,6 +1270,8 @@
     <option name="previous" path="ActionManager" hit="Goto previous splitter window" />
     <option name="splitter" path="ActionManager" hit="Goto previous splitter window" />
     <option name="window" path="ActionManager" hit="Goto previous splitter window" />
+    <option name="by" path="ActionManager" hit="Group By" />
+    <option name="group" path="ActionManager" hit="Group By" />
     <option name="group" path="ActionManager" hit="Group Tabs" />
     <option name="tabs" path="ActionManager" hit="Group Tabs" />
     <option name="help" path="ActionManager" hit="Help" />
@@ -1290,8 +1412,8 @@
     <option name="separators" path="ActionManager" hit="Line Separators" />
     <option name="column" path="ActionManager" hit="Line/Column..." />
     <option name="line" path="ActionManager" hit="Line/Column..." />
-    <option name="actions" path="ActionManager" hit="List actions" />
-    <option name="list" path="ActionManager" hit="List actions" />
+    <option name="actions" path="ActionManager" hit="List Actions" />
+    <option name="list" path="ActionManager" hit="List Actions" />
     <option name="list" path="ActionManager" hit="List of recently opened projects" />
     <option name="of" path="ActionManager" hit="List of recently opened projects" />
     <option name="opened" path="ActionManager" hit="List of recently opened projects" />
@@ -1304,6 +1426,8 @@
     <option name="actions" path="ActionManager" hit="Macro Actions" />
     <option name="macro" path="ActionManager" hit="Macro Actions" />
     <option name="macros" path="ActionManager" hit="Macros" />
+    <option name="main" path="ActionManager" hit="Main Menu" />
+    <option name="menu" path="ActionManager" hit="Main Menu" />
     <option name="main" path="ActionManager" hit="Main Toolbar" />
     <option name="toolbar" path="ActionManager" hit="Main Toolbar" />
     <option name="main" path="ActionManager" hit="Main menu" />
@@ -1357,6 +1481,8 @@
     <option name="current" path="ActionManager" hit="Minimize current window" />
     <option name="minimize" path="ActionManager" hit="Minimize current window" />
     <option name="window" path="ActionManager" hit="Minimize current window" />
+    <option name="module" path="ActionManager" hit="Module Settings" />
+    <option name="settings" path="ActionManager" hit="Module Settings" />
     <option name="a" path="ActionManager" hit="Move Caret Backward a Paragraph" />
     <option name="backward" path="ActionManager" hit="Move Caret Backward a Paragraph" />
     <option name="caret" path="ActionManager" hit="Move Caret Backward a Paragraph" />
@@ -1517,8 +1643,6 @@
     <option name="text" path="ActionManager" hit="Move Caret to Text Start with Selection" />
     <option name="to" path="ActionManager" hit="Move Caret to Text Start with Selection" />
     <option name="with" path="ActionManager" hit="Move Caret to Text Start with Selection" />
-    <option name="down" path="ActionManager" hit="Move Down" />
-    <option name="move" path="ActionManager" hit="Move Down" />
     <option name="and" path="ActionManager" hit="Move Down and Scroll" />
     <option name="down" path="ActionManager" hit="Move Down and Scroll" />
     <option name="move" path="ActionManager" hit="Move Down and Scroll" />
@@ -1529,8 +1653,6 @@
     <option name="scroll" path="ActionManager" hit="Move Down and Scroll with Selection" />
     <option name="selection" path="ActionManager" hit="Move Down and Scroll with Selection" />
     <option name="with" path="ActionManager" hit="Move Down and Scroll with Selection" />
-    <option name="move" path="ActionManager" hit="Move Right" />
-    <option name="right" path="ActionManager" hit="Move Right" />
     <option name="group" path="ActionManager" hit="Move To Group" />
     <option name="move" path="ActionManager" hit="Move To Group" />
     <option name="to" path="ActionManager" hit="Move To Group" />
@@ -1611,7 +1733,6 @@
     <option name="next" path="ActionManager" hit="Next Edit Location" />
     <option name="next" path="ActionManager" hit="Next Occurrence" />
     <option name="occurrence" path="ActionManager" hit="Next Occurrence" />
-    <option name="none" path="ActionManager" hit="None" />
     <option name="notifications" path="ActionManager" hit="Notifications" />
     <option name="editor" path="ActionManager" hit="Open In New Editor Window" />
     <option name="in" path="ActionManager" hit="Open In New Editor Window" />
@@ -1622,12 +1743,6 @@
     <option name="in" path="ActionManager" hit="Open In Opposite Group" />
     <option name="open" path="ActionManager" hit="Open In Opposite Group" />
     <option name="opposite" path="ActionManager" hit="Open In Opposite Group" />
-    <option name="at" path="ActionManager" hit="Open New Tabs At The End" />
-    <option name="end" path="ActionManager" hit="Open New Tabs At The End" />
-    <option name="new" path="ActionManager" hit="Open New Tabs At The End" />
-    <option name="open" path="ActionManager" hit="Open New Tabs At The End" />
-    <option name="tabs" path="ActionManager" hit="Open New Tabs At The End" />
-    <option name="the" path="ActionManager" hit="Open New Tabs At The End" />
     <option name="card" path="ActionManager" hit="Open PDF file with the default keymap reference card." />
     <option name="default" path="ActionManager" hit="Open PDF file with the default keymap reference card." />
     <option name="file" path="ActionManager" hit="Open PDF file with the default keymap reference card." />
@@ -1836,6 +1951,12 @@
     <option name="productivity" path="ActionManager" hit="Productivity Guide" />
     <option name="directory" path="ActionManager" hit="Project Directory" />
     <option name="project" path="ActionManager" hit="Project Directory" />
+    <option name="group" path="ActionManager" hit="Project View Popup Menu Settings Group" />
+    <option name="menu" path="ActionManager" hit="Project View Popup Menu Settings Group" />
+    <option name="popup" path="ActionManager" hit="Project View Popup Menu Settings Group" />
+    <option name="project" path="ActionManager" hit="Project View Popup Menu Settings Group" />
+    <option name="settings" path="ActionManager" hit="Project View Popup Menu Settings Group" />
+    <option name="view" path="ActionManager" hit="Project View Popup Menu Settings Group" />
     <option name="quick" path="ActionManager" hit="Quick Switch Scheme..." />
     <option name="scheme" path="ActionManager" hit="Quick Switch Scheme..." />
     <option name="switch" path="ActionManager" hit="Quick Switch Scheme..." />
@@ -1877,6 +1998,14 @@
     <option name="tab" path="ActionManager" hit="Reopen Closed Tab" />
     <option name="project" path="ActionManager" hit="Reopen Project" />
     <option name="reopen" path="ActionManager" hit="Reopen Project" />
+    <option name="added" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="by" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="groups" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="module" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="names" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="prefixes" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="replace" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="to" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
     <option name="font" path="ActionManager" hit="Reset Font Size" />
     <option name="reset" path="ActionManager" hit="Reset Font Size" />
     <option name="size" path="ActionManager" hit="Reset Font Size" />
@@ -1929,6 +2058,10 @@
     <option name="files" path="ActionManager" hit="Save all files and settings" />
     <option name="save" path="ActionManager" hit="Save all files and settings" />
     <option name="settings" path="ActionManager" hit="Save all files and settings" />
+    <option name="as" path="ActionManager" hit="Save as Directory-Based Format..." />
+    <option name="directory-based" path="ActionManager" hit="Save as Directory-Based Format..." />
+    <option name="format" path="ActionManager" hit="Save as Directory-Based Format..." />
+    <option name="save" path="ActionManager" hit="Save as Directory-Based Format..." />
     <option name="kill" path="ActionManager" hit="Save to Kill Ring" />
     <option name="ring" path="ActionManager" hit="Save to Kill Ring" />
     <option name="save" path="ActionManager" hit="Save to Kill Ring" />
@@ -2471,11 +2604,6 @@
     <option name="show" path="ActionManager" hit="Show Log in File Manager" />
     <option name="show" path="ActionManager" hit="Show Source" />
     <option name="source" path="ActionManager" hit="Show Source" />
-    <option name="in" path="ActionManager" hit="Show Tabs In Single Row" />
-    <option name="row" path="ActionManager" hit="Show Tabs In Single Row" />
-    <option name="show" path="ActionManager" hit="Show Tabs In Single Row" />
-    <option name="single" path="ActionManager" hit="Show Tabs In Single Row" />
-    <option name="tabs" path="ActionManager" hit="Show Tabs In Single Row" />
     <option name="show" path="ActionManager" hit="Show Whitespaces" />
     <option name="whitespaces" path="ActionManager" hit="Show Whitespaces" />
     <option name="a" path="ActionManager" hit="Show a popup with the list of toolwindow tabs" />
@@ -2496,6 +2624,10 @@
     <option name="starting" path="ActionManager" hit="Show background tasks window on starting of any progress" />
     <option name="tasks" path="ActionManager" hit="Show background tasks window on starting of any progress" />
     <option name="window" path="ActionManager" hit="Show background tasks window on starting of any progress" />
+    <option name="change" path="ActionManager" hit="Show change memory dialog" />
+    <option name="dialog" path="ActionManager" hit="Show change memory dialog" />
+    <option name="memory" path="ActionManager" hit="Show change memory dialog" />
+    <option name="show" path="ActionManager" hit="Show change memory dialog" />
     <option name="don" path="ActionManager" hit="Show dropdown with the list of tabs that don't fit on the screen in single-row tab layout" />
     <option name="dropdown" path="ActionManager" hit="Show dropdown with the list of tabs that don't fit on the screen in single-row tab layout" />
     <option name="fit" path="ActionManager" hit="Show dropdown with the list of tabs that don't fit on the screen in single-row tab layout" />
@@ -2566,6 +2698,18 @@
     <option name="path" path="ActionManager" hit="Show/Hide path text" />
     <option name="show" path="ActionManager" hit="Show/Hide path text" />
     <option name="text" path="ActionManager" hit="Show/Hide path text" />
+    <option name="extra" path="ActionManager" hit="Show/hide extra information in tree views" />
+    <option name="hide" path="ActionManager" hit="Show/hide extra information in tree views" />
+    <option name="in" path="ActionManager" hit="Show/hide extra information in tree views" />
+    <option name="information" path="ActionManager" hit="Show/hide extra information in tree views" />
+    <option name="show" path="ActionManager" hit="Show/hide extra information in tree views" />
+    <option name="tree" path="ActionManager" hit="Show/hide extra information in tree views" />
+    <option name="views" path="ActionManager" hit="Show/hide extra information in tree views" />
+    <option name="hide" path="ActionManager" hit="Show/hide the main menu" />
+    <option name="main" path="ActionManager" hit="Show/hide the main menu" />
+    <option name="menu" path="ActionManager" hit="Show/hide the main menu" />
+    <option name="show" path="ActionManager" hit="Show/hide the main menu" />
+    <option name="the" path="ActionManager" hit="Show/hide the main menu" />
     <option name="hide" path="ActionManager" hit="Show/hide the main toolbar" />
     <option name="main" path="ActionManager" hit="Show/hide the main toolbar" />
     <option name="show" path="ActionManager" hit="Show/hide the main toolbar" />
@@ -2587,10 +2731,6 @@
     <option name="editor" path="ActionManager" hit="Soft-Wrap Preview Editor" />
     <option name="preview" path="ActionManager" hit="Soft-Wrap Preview Editor" />
     <option name="soft-wrap" path="ActionManager" hit="Soft-Wrap Preview Editor" />
-    <option name="by" path="ActionManager" hit="Sort Tabs By Filename" />
-    <option name="filename" path="ActionManager" hit="Sort Tabs By Filename" />
-    <option name="sort" path="ActionManager" hit="Sort Tabs By Filename" />
-    <option name="tabs" path="ActionManager" hit="Sort Tabs By Filename" />
     <option name="horizontally" path="ActionManager" hit="Split Horizontally" />
     <option name="split" path="ActionManager" hit="Split Horizontally" />
     <option name="line" path="ActionManager" hit="Split Line" />
@@ -2599,6 +2739,14 @@
     <option name="split" path="ActionManager" hit="Split Mode" />
     <option name="split" path="ActionManager" hit="Split Vertically" />
     <option name="vertically" path="ActionManager" hit="Split Vertically" />
+    <option name="and" path="ActionManager" hit="Split and Move Down" />
+    <option name="down" path="ActionManager" hit="Split and Move Down" />
+    <option name="move" path="ActionManager" hit="Split and Move Down" />
+    <option name="split" path="ActionManager" hit="Split and Move Down" />
+    <option name="and" path="ActionManager" hit="Split and Move Right" />
+    <option name="move" path="ActionManager" hit="Split and Move Right" />
+    <option name="right" path="ActionManager" hit="Split and Move Right" />
+    <option name="split" path="ActionManager" hit="Split and Move Right" />
     <option name="2" path="ActionManager" hit="Split editor area into 2 tab groups and move the current tab to the bottom group" />
     <option name="and" path="ActionManager" hit="Split editor area into 2 tab groups and move the current tab to the bottom group" />
     <option name="area" path="ActionManager" hit="Split editor area into 2 tab groups and move the current tab to the bottom group" />
@@ -2728,13 +2876,6 @@
     <option name="report" path="ActionManager" hit="Submit a bug report in JetBrains issue tracker" />
     <option name="submit" path="ActionManager" hit="Submit a bug report in JetBrains issue tracker" />
     <option name="tracker" path="ActionManager" hit="Submit a bug report in JetBrains issue tracker" />
-    <option name="feedback" path="ActionManager" hit="Submit feedback to the JetBrains Web site" />
-    <option name="jetbrains" path="ActionManager" hit="Submit feedback to the JetBrains Web site" />
-    <option name="site" path="ActionManager" hit="Submit feedback to the JetBrains Web site" />
-    <option name="submit" path="ActionManager" hit="Submit feedback to the JetBrains Web site" />
-    <option name="the" path="ActionManager" hit="Submit feedback to the JetBrains Web site" />
-    <option name="to" path="ActionManager" hit="Submit feedback to the JetBrains Web site" />
-    <option name="web" path="ActionManager" hit="Submit feedback to the JetBrains Web site" />
     <option name="boundaries" path="ActionManager" hit="Swap selection boundaries" />
     <option name="selection" path="ActionManager" hit="Swap selection boundaries" />
     <option name="swap" path="ActionManager" hit="Swap selection boundaries" />
@@ -2744,11 +2885,9 @@
     <option name="switcher" path="ActionManager" hit="Switcher" />
     <option name="synchronize" path="ActionManager" hit="Synchronize" />
     <option name="tab" path="ActionManager" hit="Tab" />
-    <option name="actions" path="ActionManager" hit="Table actions" />
-    <option name="table" path="ActionManager" hit="Table actions" />
+    <option name="actions" path="ActionManager" hit="Table Actions" />
+    <option name="table" path="ActionManager" hit="Table Actions" />
     <option name="tabs" path="ActionManager" hit="Tabs" />
-    <option name="placement" path="ActionManager" hit="Tabs Placement" />
-    <option name="tabs" path="ActionManager" hit="Tabs Placement" />
     <option name="day" path="ActionManager" hit="Tip of the Day" />
     <option name="of" path="ActionManager" hit="Tip of the Day" />
     <option name="the" path="ActionManager" hit="Tip of the Day" />
@@ -2759,6 +2898,10 @@
     <option name="to" path="ActionManager" hit="To Tabs" />
     <option name="case" path="ActionManager" hit="Toggle Case" />
     <option name="toggle" path="ActionManager" hit="Toggle Case" />
+    <option name="changed" path="ActionManager" hit="Toggle Changed Only Files" />
+    <option name="files" path="ActionManager" hit="Toggle Changed Only Files" />
+    <option name="only" path="ActionManager" hit="Toggle Changed Only Files" />
+    <option name="toggle" path="ActionManager" hit="Toggle Changed Only Files" />
     <option name="distraction" path="ActionManager" hit="Toggle Distraction Free mode" />
     <option name="free" path="ActionManager" hit="Toggle Distraction Free mode" />
     <option name="mode" path="ActionManager" hit="Toggle Distraction Free mode" />
@@ -2862,9 +3005,8 @@
     <option name="tool" path="ActionManager" hit="Tool windows split mode on/off" />
     <option name="windows" path="ActionManager" hit="Tool windows split mode on/off" />
     <option name="toolbar" path="ActionManager" hit="Toolbar" />
-    <option name="top" path="ActionManager" hit="Top" />
-    <option name="actions" path="ActionManager" hit="Tree actions" />
-    <option name="tree" path="ActionManager" hit="Tree actions" />
+    <option name="actions" path="ActionManager" hit="Tree Actions" />
+    <option name="tree" path="ActionManager" hit="Tree Actions" />
     <option name="undo" path="ActionManager" hit="Undo" />
     <option name="last" path="ActionManager" hit="Undo last navigation operation" />
     <option name="navigation" path="ActionManager" hit="Undo last navigation operation" />
@@ -2905,6 +3047,9 @@
     <option name="play" path="ActionManager" hit="View, Change, Record, Play Macros" />
     <option name="record" path="ActionManager" hit="View, Change, Record, Play Macros" />
     <option name="view" path="ActionManager" hit="View, Change, Record, Play Macros" />
+    <option name="new" path="ActionManager" hit="What's New" />
+    <option name="s" path="ActionManager" hit="What's New" />
+    <option name="what" path="ActionManager" hit="What's New" />
     <option name="window" path="ActionManager" hit="Window" />
     <option name="active" path="ActionManager" hit="Window/unwindow active tool window" />
     <option name="tool" path="ActionManager" hit="Window/unwindow active tool window" />
@@ -2924,6 +3069,152 @@
     <option name="keymap" hit="Keymap" />
   </configurable>
   <configurable id="configurable.group.editor" configurable_name="Editor" />
+  <configurable id="editor.preferences.tabs" configurable_name="Editor Tabs">
+    <option name="" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="589df6" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="800080" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="a" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="active" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="are" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="changes" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="class" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="color" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="contains" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="current" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="declaration" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="f00000" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="file" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="hover" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="if" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="link" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="method" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="navigating" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="no" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="replace" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="source" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="tab" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="that" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="the" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="there" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="to" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="variable" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="visited" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="when" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="will" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
+    <option name="" hit=" Most recently opened tab " />
+    <option name="most" hit=" Most recently opened tab " />
+    <option name="opened" hit=" Most recently opened tab " />
+    <option name="recently" hit=" Most recently opened tab " />
+    <option name="tab" hit=" Most recently opened tab " />
+    <option name="" hit=" The tab on the left " />
+    <option name="left" hit=" The tab on the left " />
+    <option name="on" hit=" The tab on the left " />
+    <option name="tab" hit=" The tab on the left " />
+    <option name="the" hit=" The tab on the left " />
+    <option name="" hit=" The tab on the right " />
+    <option name="on" hit=" The tab on the right " />
+    <option name="right" hit=" The tab on the right " />
+    <option name="tab" hit=" The tab on the right " />
+    <option name="the" hit=" The tab on the right " />
+    <option name="" hit=" When tabs exceed the limit: " />
+    <option name="exceed" hit=" When tabs exceed the limit: " />
+    <option name="limit" hit=" When tabs exceed the limit: " />
+    <option name="tabs" hit=" When tabs exceed the limit: " />
+    <option name="the" hit=" When tabs exceed the limit: " />
+    <option name="when" hit=" When tabs exceed the limit: " />
+    <option name="appearance" hit="Appearance" />
+    <option name="bottom" hit="Bottom" />
+    <option name="button" hit="Close button position:" />
+    <option name="close" hit="Close button position:" />
+    <option name="position" hit="Close button position:" />
+    <option name="close" hit="Close unchanged" />
+    <option name="unchanged" hit="Close unchanged" />
+    <option name="close" hit="Close unused" />
+    <option name="unused" hit="Close unused" />
+    <option name="closing" hit="Closing Policy" />
+    <option name="policy" hit="Closing Policy" />
+    <option name="editor" hit="Editor Tabs" />
+    <option name="tabs" hit="Editor Tabs" />
+    <option name="hide" hit="Hide tabs if there is no space" />
+    <option name="if" hit="Hide tabs if there is no space" />
+    <option name="is" hit="Hide tabs if there is no space" />
+    <option name="no" hit="Hide tabs if there is no space" />
+    <option name="space" hit="Hide tabs if there is no space" />
+    <option name="tabs" hit="Hide tabs if there is no space" />
+    <option name="there" hit="Hide tabs if there is no space" />
+    <option name="left" hit="Left" />
+    <option name="mark" hit="Mark modified (*)" />
+    <option name="modified" hit="Mark modified (*)" />
+    <option name="none" hit="None" />
+    <option name="declaration" hit="Open declaration source in the same tab" />
+    <option name="in" hit="Open declaration source in the same tab" />
+    <option name="open" hit="Open declaration source in the same tab" />
+    <option name="same" hit="Open declaration source in the same tab" />
+    <option name="source" hit="Open declaration source in the same tab" />
+    <option name="tab" hit="Open declaration source in the same tab" />
+    <option name="the" hit="Open declaration source in the same tab" />
+    <option name="at" hit="Open new tabs at the end" />
+    <option name="end" hit="Open new tabs at the end" />
+    <option name="new" hit="Open new tabs at the end" />
+    <option name="open" hit="Open new tabs at the end" />
+    <option name="tabs" hit="Open new tabs at the end" />
+    <option name="the" hit="Open new tabs at the end" />
+    <option name="right" hit="Right" />
+    <option name="directory" hit="Show directory for non-unique file names" />
+    <option name="file" hit="Show directory for non-unique file names" />
+    <option name="for" hit="Show directory for non-unique file names" />
+    <option name="names" hit="Show directory for non-unique file names" />
+    <option name="non-unique" hit="Show directory for non-unique file names" />
+    <option name="show" hit="Show directory for non-unique file names" />
+    <option name="extension" hit="Show file extension" />
+    <option name="file" hit="Show file extension" />
+    <option name="show" hit="Show file extension" />
+    <option name="full" hit="Show full path on mouse hover" />
+    <option name="hover" hit="Show full path on mouse hover" />
+    <option name="mouse" hit="Show full path on mouse hover" />
+    <option name="on" hit="Show full path on mouse hover" />
+    <option name="path" hit="Show full path on mouse hover" />
+    <option name="show" hit="Show full path on mouse hover" />
+    <option name="in" hit="Show tabs in one row" />
+    <option name="one" hit="Show tabs in one row" />
+    <option name="row" hit="Show tabs in one row" />
+    <option name="show" hit="Show tabs in one row" />
+    <option name="tabs" hit="Show tabs in one row" />
+    <option name="alphabetically" hit="Sort tabs alphabetically" />
+    <option name="sort" hit="Sort tabs alphabetically" />
+    <option name="tabs" hit="Sort tabs alphabetically" />
+    <option name="order" hit="Tab Order" />
+    <option name="tab" hit="Tab Order" />
+    <option name="limit" hit="Tab limit:" />
+    <option name="tab" hit="Tab limit:" />
+    <option name="placement" hit="Tab placement:" />
+    <option name="tab" hit="Tab placement:" />
+    <option name="top" hit="Top" />
+    <option name="activate" hit="When the current tab is closed, activate:" />
+    <option name="closed" hit="When the current tab is closed, activate:" />
+    <option name="current" hit="When the current tab is closed, activate:" />
+    <option name="is" hit="When the current tab is closed, activate:" />
+    <option name="tab" hit="When the current tab is closed, activate:" />
+    <option name="the" hit="When the current tab is closed, activate:" />
+    <option name="when" hit="When the current tab is closed, activate:" />
+    <option_top_hit name="Tab placement | Top" />
+    <option_top_hit name="Tab placement | Left" />
+    <option_top_hit name="Tab placement | Bottom" />
+    <option_top_hit name="Tab placement | Right" />
+    <option_top_hit name="Tab placement | None" />
+    <option_top_hit name="Show tabs in one row" />
+    <option_top_hit name="Hide tabs if there is no space" />
+    <option_top_hit name="Show file extension" />
+    <option_top_hit name="Show directory for non-unique file names" />
+    <option_top_hit name="Mark modified (*)" />
+    <option_top_hit name="Show full path on mouse hover" />
+    <option_top_hit name="Close button position | Left" />
+    <option_top_hit name="Close button position | Right" />
+    <option_top_hit name="Close button position | None" />
+    <option_top_hit name="Sort tabs alphabetically" />
+    <option_top_hit name="Open new tabs at the end" />
+    <option_top_hit name="Open declaration source in the same tab" />
+  </configurable>
   <configurable id="preferences.pluginManager" configurable_name="Plugins">
     <option name="plugins" hit="Plugins" />
     <option name="manage" hit="Manage repositories..." />

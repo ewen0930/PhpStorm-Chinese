@@ -101,6 +101,10 @@
     <option name="command" path="ActionManager" hit="Allows to execute any command" />
     <option name="execute" path="ActionManager" hit="Allows to execute any command" />
     <option name="to" path="ActionManager" hit="Allows to execute any command" />
+    <option name="analyze" path="ActionManager" hit="Analyze" />
+    <option name="analyze" path="ActionManager" hit="Analyze Backward Dependencies..." />
+    <option name="backward" path="ActionManager" hit="Analyze Backward Dependencies..." />
+    <option name="dependencies" path="ActionManager" hit="Analyze Backward Dependencies..." />
     <option name="analyze" path="ActionManager" hit="Analyze Data Flow from Here" />
     <option name="data" path="ActionManager" hit="Analyze Data Flow from Here" />
     <option name="flow" path="ActionManager" hit="Analyze Data Flow from Here" />
@@ -111,9 +115,16 @@
     <option name="flow" path="ActionManager" hit="Analyze Data Flow to Here" />
     <option name="here" path="ActionManager" hit="Analyze Data Flow to Here" />
     <option name="to" path="ActionManager" hit="Analyze Data Flow to Here" />
-    <option name="analyze" path="ActionManager" hit="Analyze Stack Trace..." />
-    <option name="stack" path="ActionManager" hit="Analyze Stack Trace..." />
-    <option name="trace" path="ActionManager" hit="Analyze Stack Trace..." />
+    <option name="analyze" path="ActionManager" hit="Analyze Dependencies on Specified Target" />
+    <option name="dependencies" path="ActionManager" hit="Analyze Dependencies on Specified Target" />
+    <option name="on" path="ActionManager" hit="Analyze Dependencies on Specified Target" />
+    <option name="specified" path="ActionManager" hit="Analyze Dependencies on Specified Target" />
+    <option name="target" path="ActionManager" hit="Analyze Dependencies on Specified Target" />
+    <option name="analyze" path="ActionManager" hit="Analyze Dependencies..." />
+    <option name="dependencies" path="ActionManager" hit="Analyze Dependencies..." />
+    <option name="analyze" path="ActionManager" hit="Analyze Module Dependencies..." />
+    <option name="dependencies" path="ActionManager" hit="Analyze Module Dependencies..." />
+    <option name="module" path="ActionManager" hit="Analyze Module Dependencies..." />
     <option name="associate" path="ActionManager" hit="Associate selected file with one of file types" />
     <option name="file" path="ActionManager" hit="Associate selected file with one of file types" />
     <option name="of" path="ActionManager" hit="Associate selected file with one of file types" />
@@ -150,6 +161,20 @@
     <option name="method" path="ActionManager" hit="Browse call hierarchy for the selected method" />
     <option name="selected" path="ActionManager" hit="Browse call hierarchy for the selected method" />
     <option name="the" path="ActionManager" hit="Browse call hierarchy for the selected method" />
+    <option name="analysis" path="ActionManager" hit="Browse code chosen analysis item depends on" />
+    <option name="browse" path="ActionManager" hit="Browse code chosen analysis item depends on" />
+    <option name="chosen" path="ActionManager" hit="Browse code chosen analysis item depends on" />
+    <option name="code" path="ActionManager" hit="Browse code chosen analysis item depends on" />
+    <option name="depends" path="ActionManager" hit="Browse code chosen analysis item depends on" />
+    <option name="item" path="ActionManager" hit="Browse code chosen analysis item depends on" />
+    <option name="on" path="ActionManager" hit="Browse code chosen analysis item depends on" />
+    <option name="analysis" path="ActionManager" hit="Browse code chosen analysis item used in" />
+    <option name="browse" path="ActionManager" hit="Browse code chosen analysis item used in" />
+    <option name="chosen" path="ActionManager" hit="Browse code chosen analysis item used in" />
+    <option name="code" path="ActionManager" hit="Browse code chosen analysis item used in" />
+    <option name="in" path="ActionManager" hit="Browse code chosen analysis item used in" />
+    <option name="item" path="ActionManager" hit="Browse code chosen analysis item used in" />
+    <option name="used" path="ActionManager" hit="Browse code chosen analysis item used in" />
     <option name="browse" path="ActionManager" hit="Browse hierarchy for the selected class" />
     <option name="class" path="ActionManager" hit="Browse hierarchy for the selected class" />
     <option name="for" path="ActionManager" hit="Browse hierarchy for the selected class" />
@@ -274,6 +299,8 @@
     <option name="class" path="ActionManager" hit="Class..." />
     <option name="all" path="ActionManager" hit="Clear All" />
     <option name="clear" path="ActionManager" hit="Clear All" />
+    <option name="clear" path="ActionManager" hit="Clear Content" />
+    <option name="content" path="ActionManager" hit="Clear Content" />
     <option name="clear" path="ActionManager" hit="Clear the contents of the console" />
     <option name="console" path="ActionManager" hit="Clear the contents of the console" />
     <option name="contents" path="ActionManager" hit="Clear the contents of the console" />
@@ -286,6 +313,10 @@
     <option name="but" path="ActionManager" hit="Close All but Pinned" />
     <option name="close" path="ActionManager" hit="Close All but Pinned" />
     <option name="pinned" path="ActionManager" hit="Close All but Pinned" />
+    <option name="bar" path="ActionManager" hit="Close Floating Navigation Bar" />
+    <option name="close" path="ActionManager" hit="Close Floating Navigation Bar" />
+    <option name="floating" path="ActionManager" hit="Close Floating Navigation Bar" />
+    <option name="navigation" path="ActionManager" hit="Close Floating Navigation Bar" />
     <option name="close" path="ActionManager" hit="Close Others" />
     <option name="others" path="ActionManager" hit="Close Others" />
     <option name="all" path="ActionManager" hit="Close all tabs which are not pinned" />
@@ -430,6 +461,24 @@
     <option name="quick" path="ActionManager" hit="Copy Quick Doc" />
     <option name="copy" path="ActionManager" hit="Copy Reference" />
     <option name="reference" path="ActionManager" hit="Copy Reference" />
+    <option name="copy" path="ActionManager" hit="Copy Toolbox Reference URL" />
+    <option name="reference" path="ActionManager" hit="Copy Toolbox Reference URL" />
+    <option name="toolbox" path="ActionManager" hit="Copy Toolbox Reference URL" />
+    <option name="url" path="ActionManager" hit="Copy Toolbox Reference URL" />
+    <option name="a" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
+    <option name="class" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
+    <option name="copy" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
+    <option name="file" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
+    <option name="function" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
+    <option name="method" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
+    <option name="or" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
+    <option name="path" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
+    <option name="reference" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
+    <option name="relative" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
+    <option name="selected" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
+    <option name="to" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
+    <option name="toolbox" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
+    <option name="url" path="ActionManager" hit="Copy Toolbox reference URL to selected class, method or function, or a relative path to selected file" />
     <option name="as" path="ActionManager" hit="Copy as Plain Text" />
     <option name="copy" path="ActionManager" hit="Copy as Plain Text" />
     <option name="plain" path="ActionManager" hit="Copy as Plain Text" />
@@ -556,19 +605,22 @@
     <option name="actions" path="ActionManager" hit="Debugger Actions" />
     <option name="debugger" path="ActionManager" hit="Debugger Actions" />
     <option name="declaration" path="ActionManager" hit="Declaration" />
-    <option name="alt" path="ActionManager" hit="Default with Alt key" />
-    <option name="default" path="ActionManager" hit="Default with Alt key" />
-    <option name="key" path="ActionManager" hit="Default with Alt key" />
-    <option name="with" path="ActionManager" hit="Default with Alt key" />
-    <option name="alt" path="ActionManager" hit="Default with Alt+Cmd key" />
-    <option name="cmd" path="ActionManager" hit="Default with Alt+Cmd key" />
-    <option name="default" path="ActionManager" hit="Default with Alt+Cmd key" />
-    <option name="key" path="ActionManager" hit="Default with Alt+Cmd key" />
-    <option name="with" path="ActionManager" hit="Default with Alt+Cmd key" />
-    <option name="default" path="ActionManager" hit="Default with Shift key" />
-    <option name="key" path="ActionManager" hit="Default with Shift key" />
-    <option name="shift" path="ActionManager" hit="Default with Shift key" />
-    <option name="with" path="ActionManager" hit="Default with Shift key" />
+    <option name="declaration" path="ActionManager" hit="Declaration or Usages" />
+    <option name="or" path="ActionManager" hit="Declaration or Usages" />
+    <option name="usages" path="ActionManager" hit="Declaration or Usages" />
+    <option name="alt" path="ActionManager" hit="Default with Alt Key" />
+    <option name="default" path="ActionManager" hit="Default with Alt Key" />
+    <option name="key" path="ActionManager" hit="Default with Alt Key" />
+    <option name="with" path="ActionManager" hit="Default with Alt Key" />
+    <option name="alt" path="ActionManager" hit="Default with Alt+Cmd Key" />
+    <option name="cmd" path="ActionManager" hit="Default with Alt+Cmd Key" />
+    <option name="default" path="ActionManager" hit="Default with Alt+Cmd Key" />
+    <option name="key" path="ActionManager" hit="Default with Alt+Cmd Key" />
+    <option name="with" path="ActionManager" hit="Default with Alt+Cmd Key" />
+    <option name="default" path="ActionManager" hit="Default with Shift Key" />
+    <option name="key" path="ActionManager" hit="Default with Shift Key" />
+    <option name="shift" path="ActionManager" hit="Default with Shift Key" />
+    <option name="with" path="ActionManager" hit="Default with Shift Key" />
     <option name="delegate" path="ActionManager" hit="Delegate Methods..." />
     <option name="methods" path="ActionManager" hit="Delegate Methods..." />
     <option name="delegate" path="ActionManager" hit="Delegate..." />
@@ -588,12 +640,12 @@
     <option name="method" path="ActionManager" hit="Disable Hints for Method ''" />
     <option name="disable" path="ActionManager" hit="Disable inspection" />
     <option name="inspection" path="ActionManager" hit="Disable inspection" />
-    <option name="dump" path="ActionManager" hit="Dump lookup element weights to log" />
-    <option name="element" path="ActionManager" hit="Dump lookup element weights to log" />
-    <option name="log" path="ActionManager" hit="Dump lookup element weights to log" />
-    <option name="lookup" path="ActionManager" hit="Dump lookup element weights to log" />
-    <option name="to" path="ActionManager" hit="Dump lookup element weights to log" />
-    <option name="weights" path="ActionManager" hit="Dump lookup element weights to log" />
+    <option name="dump" path="ActionManager" hit="Dump Lookup Element Weights to Log" />
+    <option name="element" path="ActionManager" hit="Dump Lookup Element Weights to Log" />
+    <option name="log" path="ActionManager" hit="Dump Lookup Element Weights to Log" />
+    <option name="lookup" path="ActionManager" hit="Dump Lookup Element Weights to Log" />
+    <option name="to" path="ActionManager" hit="Dump Lookup Element Weights to Log" />
+    <option name="weights" path="ActionManager" hit="Dump Lookup Element Weights to Log" />
     <option name="actions" path="ActionManager" hit="Edit Code Actions" />
     <option name="code" path="ActionManager" hit="Edit Code Actions" />
     <option name="edit" path="ActionManager" hit="Edit Code Actions" />
@@ -721,6 +773,16 @@
     <option name="find" path="ActionManager" hit="Find" />
     <option name="action" path="ActionManager" hit="Find Action..." />
     <option name="find" path="ActionManager" hit="Find Action..." />
+    <option name="find" path="ActionManager" hit="Find Next / Move to Next Occurrence" />
+    <option name="move" path="ActionManager" hit="Find Next / Move to Next Occurrence" />
+    <option name="next" path="ActionManager" hit="Find Next / Move to Next Occurrence" />
+    <option name="occurrence" path="ActionManager" hit="Find Next / Move to Next Occurrence" />
+    <option name="to" path="ActionManager" hit="Find Next / Move to Next Occurrence" />
+    <option name="find" path="ActionManager" hit="Find Previous / Move to Previous Occurrence" />
+    <option name="move" path="ActionManager" hit="Find Previous / Move to Previous Occurrence" />
+    <option name="occurrence" path="ActionManager" hit="Find Previous / Move to Previous Occurrence" />
+    <option name="previous" path="ActionManager" hit="Find Previous / Move to Previous Occurrence" />
+    <option name="to" path="ActionManager" hit="Find Previous / Move to Previous Occurrence" />
     <option name="find" path="ActionManager" hit="Find Usages" />
     <option name="usages" path="ActionManager" hit="Find Usages" />
     <option name="find" path="ActionManager" hit="Find Usages Settings..." />
@@ -787,8 +849,8 @@
     <option name="comment" path="ActionManager" hit="Fix doc comment" />
     <option name="doc" path="ActionManager" hit="Fix doc comment" />
     <option name="fix" path="ActionManager" hit="Fix doc comment" />
-    <option name="flatten" path="ActionManager" hit="Flatten Packages" />
-    <option name="packages" path="ActionManager" hit="Flatten Packages" />
+    <option name="flatten" path="ActionManager" hit="Flatten View" />
+    <option name="view" path="ActionManager" hit="Flatten View" />
     <option name="block" path="ActionManager" hit="Fold Code Block" />
     <option name="code" path="ActionManager" hit="Fold Code Block" />
     <option name="fold" path="ActionManager" hit="Fold Code Block" />
@@ -806,6 +868,10 @@
     <option name="folding" path="ActionManager" hit="Folding" />
     <option name="from" path="ActionManager" hit="From Template" />
     <option name="template" path="ActionManager" hit="From Template" />
+    <option name="functional" path="ActionManager" hit="Functional Parameter..." />
+    <option name="parameter" path="ActionManager" hit="Functional Parameter..." />
+    <option name="functional" path="ActionManager" hit="Functional Variable..." />
+    <option name="variable" path="ActionManager" hit="Functional Variable..." />
     <option name="by" path="ActionManager" hit="Generate by Pattern..." />
     <option name="generate" path="ActionManager" hit="Generate by Pattern..." />
     <option name="pattern" path="ActionManager" hit="Generate by Pattern..." />
@@ -885,6 +951,10 @@
     <option name="link" path="ActionManager" hit="Go to Link Target" />
     <option name="target" path="ActionManager" hit="Go to Link Target" />
     <option name="to" path="ActionManager" hit="Go to Link Target" />
+    <option name="directory" path="ActionManager" hit="Go to module directory" />
+    <option name="go" path="ActionManager" hit="Go to module directory" />
+    <option name="module" path="ActionManager" hit="Go to module directory" />
+    <option name="to" path="ActionManager" hit="Go to module directory" />
     <option name="element" path="ActionManager" hit="Go to next highlighted element usage" />
     <option name="go" path="ActionManager" hit="Go to next highlighted element usage" />
     <option name="highlighted" path="ActionManager" hit="Go to next highlighted element usage" />
@@ -909,18 +979,11 @@
     <option name="by" path="ActionManager" hit="Goto by Reference Actions" />
     <option name="goto" path="ActionManager" hit="Goto by Reference Actions" />
     <option name="reference" path="ActionManager" hit="Goto by Reference Actions" />
-    <option name="by" path="ActionManager" hit="Group By Modules" />
-    <option name="group" path="ActionManager" hit="Group By Modules" />
-    <option name="modules" path="ActionManager" hit="Group By Modules" />
-    <option name="by" path="ActionManager" hit="Group By Packages" />
-    <option name="group" path="ActionManager" hit="Group By Packages" />
-    <option name="packages" path="ActionManager" hit="Group By Packages" />
+    <option name="by" path="ActionManager" hit="Group By" />
+    <option name="group" path="ActionManager" hit="Group By" />
     <option name="configurations" path="ActionManager" hit="Group Configurations" />
     <option name="group" path="ActionManager" hit="Group Configurations" />
     <option name="help" path="ActionManager" hit="Help" />
-    <option name="hide" path="ActionManager" hit="Hide" />
-    <option name="hide" path="ActionManager" hit="Hide view" />
-    <option name="view" path="ActionManager" hit="Hide view" />
     <option name="actions" path="ActionManager" hit="Hierarchy Actions" />
     <option name="hierarchy" path="ActionManager" hit="Hierarchy Actions" />
     <option name="file" path="ActionManager" hit="Highlight Usages in File" />
@@ -954,6 +1017,17 @@
     <option name="the" path="ActionManager" hit="Implement base interface/class methods in the current class" />
     <option name="implementation" path="ActionManager" hit="Implementation(s)" />
     <option name="s" path="ActionManager" hit="Implementation(s)" />
+    <option name="import" path="ActionManager" hit="Import Module" />
+    <option name="module" path="ActionManager" hit="Import Module" />
+    <option name="a" path="ActionManager" hit="Import iml file as a module to the project" />
+    <option name="as" path="ActionManager" hit="Import iml file as a module to the project" />
+    <option name="file" path="ActionManager" hit="Import iml file as a module to the project" />
+    <option name="iml" path="ActionManager" hit="Import iml file as a module to the project" />
+    <option name="import" path="ActionManager" hit="Import iml file as a module to the project" />
+    <option name="module" path="ActionManager" hit="Import iml file as a module to the project" />
+    <option name="project" path="ActionManager" hit="Import iml file as a module to the project" />
+    <option name="the" path="ActionManager" hit="Import iml file as a module to the project" />
+    <option name="to" path="ActionManager" hit="Import iml file as a module to the project" />
     <option name="file" path="ActionManager" hit="Include File..." />
     <option name="include" path="ActionManager" hit="Include File..." />
     <option name="incremental" path="ActionManager" hit="Incremental Search" />
@@ -986,6 +1060,9 @@
     <option name="insert" path="ActionManager" hit="Insert Live Template..." />
     <option name="live" path="ActionManager" hit="Insert Live Template..." />
     <option name="template" path="ActionManager" hit="Insert Live Template..." />
+    <option name="actions" path="ActionManager" hit="Inspect Code Actions" />
+    <option name="code" path="ActionManager" hit="Inspect Code Actions" />
+    <option name="inspect" path="ActionManager" hit="Inspect Code Actions" />
     <option name="code" path="ActionManager" hit="Inspect Code With Editor Settings" />
     <option name="editor" path="ActionManager" hit="Inspect Code With Editor Settings" />
     <option name="inspect" path="ActionManager" hit="Inspect Code With Editor Settings" />
@@ -1039,6 +1116,9 @@
     <option name="jump" path="ActionManager" hit="Jump to Navigation Bar" />
     <option name="navigation" path="ActionManager" hit="Jump to Navigation Bar" />
     <option name="to" path="ActionManager" hit="Jump to Navigation Bar" />
+    <option name="jump" path="ActionManager" hit="Jump to Services" />
+    <option name="services" path="ActionManager" hit="Jump to Services" />
+    <option name="to" path="ActionManager" hit="Jump to Services" />
     <option name="layout" path="ActionManager" hit="Layout" />
     <option name="configuration" path="ActionManager" hit="Layout configuration" />
     <option name="layout" path="ActionManager" hit="Layout configuration" />
@@ -1046,6 +1126,9 @@
     <option name="load" path="ActionManager" hit="Load offline inspection results" />
     <option name="offline" path="ActionManager" hit="Load offline inspection results" />
     <option name="results" path="ActionManager" hit="Load offline inspection results" />
+    <option name="load" path="ActionManager" hit="Load/Unload Modules..." />
+    <option name="modules" path="ActionManager" hit="Load/Unload Modules..." />
+    <option name="unload" path="ActionManager" hit="Load/Unload Modules..." />
     <option name="down" path="ActionManager" hit="Lookup Down" />
     <option name="lookup" path="ActionManager" hit="Lookup Down" />
     <option name="lookup" path="ActionManager" hit="Lookup Up" />
@@ -1093,7 +1176,10 @@
     <option name="method" path="ActionManager" hit="Method Navigation Actions" />
     <option name="navigation" path="ActionManager" hit="Method Navigation Actions" />
     <option name="method" path="ActionManager" hit="Method..." />
+    <option name="directory" path="ActionManager" hit="Module Directory" />
+    <option name="module" path="ActionManager" hit="Module Directory" />
     <option name="module" path="ActionManager" hit="Module..." />
+    <option name="modules" path="ActionManager" hit="Modules" />
     <option name="block" path="ActionManager" hit="Move Caret to Code Block End" />
     <option name="caret" path="ActionManager" hit="Move Caret to Code Block End" />
     <option name="code" path="ActionManager" hit="Move Caret to Code Block End" />
@@ -1139,6 +1225,10 @@
     <option name="line" path="ActionManager" hit="Move Line Up" />
     <option name="move" path="ActionManager" hit="Move Line Up" />
     <option name="up" path="ActionManager" hit="Move Line Up" />
+    <option name="group" path="ActionManager" hit="Move Module to Group" />
+    <option name="module" path="ActionManager" hit="Move Module to Group" />
+    <option name="move" path="ActionManager" hit="Move Module to Group" />
+    <option name="to" path="ActionManager" hit="Move Module to Group" />
     <option name="down" path="ActionManager" hit="Move Statement Down" />
     <option name="move" path="ActionManager" hit="Move Statement Down" />
     <option name="statement" path="ActionManager" hit="Move Statement Down" />
@@ -1227,6 +1317,10 @@
     <option name="move" path="ActionManager" hit="Move up" />
     <option name="up" path="ActionManager" hit="Move up" />
     <option name="move" path="ActionManager" hit="Move..." />
+    <option name="from" path="ActionManager" hit="Navigate from Selected Item" />
+    <option name="item" path="ActionManager" hit="Navigate from Selected Item" />
+    <option name="navigate" path="ActionManager" hit="Navigate from Selected Item" />
+    <option name="selected" path="ActionManager" hit="Navigate from Selected Item" />
     <option name="dialog" path="ActionManager" hit="Navigate to next group in Search Everywhere dialog" />
     <option name="everywhere" path="ActionManager" hit="Navigate to next group in Search Everywhere dialog" />
     <option name="group" path="ActionManager" hit="Navigate to next group in Search Everywhere dialog" />
@@ -1272,6 +1366,18 @@
     <option name="symbol" path="ActionManager" hit="Navigate to the declaration of the symbol at caret" />
     <option name="the" path="ActionManager" hit="Navigate to the declaration of the symbol at caret" />
     <option name="to" path="ActionManager" hit="Navigate to the declaration of the symbol at caret" />
+    <option name="at" path="ActionManager" hit="Navigate to the declaration of the symbol at caret or show its usages" />
+    <option name="caret" path="ActionManager" hit="Navigate to the declaration of the symbol at caret or show its usages" />
+    <option name="declaration" path="ActionManager" hit="Navigate to the declaration of the symbol at caret or show its usages" />
+    <option name="its" path="ActionManager" hit="Navigate to the declaration of the symbol at caret or show its usages" />
+    <option name="navigate" path="ActionManager" hit="Navigate to the declaration of the symbol at caret or show its usages" />
+    <option name="of" path="ActionManager" hit="Navigate to the declaration of the symbol at caret or show its usages" />
+    <option name="or" path="ActionManager" hit="Navigate to the declaration of the symbol at caret or show its usages" />
+    <option name="show" path="ActionManager" hit="Navigate to the declaration of the symbol at caret or show its usages" />
+    <option name="symbol" path="ActionManager" hit="Navigate to the declaration of the symbol at caret or show its usages" />
+    <option name="the" path="ActionManager" hit="Navigate to the declaration of the symbol at caret or show its usages" />
+    <option name="to" path="ActionManager" hit="Navigate to the declaration of the symbol at caret or show its usages" />
+    <option name="usages" path="ActionManager" hit="Navigate to the declaration of the symbol at caret or show its usages" />
     <option name="at" path="ActionManager" hit="Navigate to the declaration of the symbol's type at caret" />
     <option name="caret" path="ActionManager" hit="Navigate to the declaration of the symbol's type at caret" />
     <option name="declaration" path="ActionManager" hit="Navigate to the declaration of the symbol's type at caret" />
@@ -1365,6 +1471,9 @@
     <option name="to" path="ActionManager" hit="Navigate to the test of the selected class" />
     <option name="bar" path="ActionManager" hit="Navigation Bar" />
     <option name="navigation" path="ActionManager" hit="Navigation Bar" />
+    <option name="actions" path="ActionManager" hit="Navigation Bar Actions" />
+    <option name="bar" path="ActionManager" hit="Navigation Bar Actions" />
+    <option name="navigation" path="ActionManager" hit="Navigation Bar Actions" />
     <option name="new" path="ActionManager" hit="New" />
     <option name="buffer" path="ActionManager" hit="New Scratch Buffer" />
     <option name="new" path="ActionManager" hit="New Scratch Buffer" />
@@ -1396,6 +1505,16 @@
     <option name="tab" path="ActionManager" hit="Next tab" />
     <option name="excluded" path="ActionManager" hit="Not Excluded" />
     <option name="not" path="ActionManager" hit="Not Excluded" />
+    <option name="configurations" path="ActionManager" hit="Open 'Edit Run/Debug configurations' dialog" />
+    <option name="debug" path="ActionManager" hit="Open 'Edit Run/Debug configurations' dialog" />
+    <option name="dialog" path="ActionManager" hit="Open 'Edit Run/Debug configurations' dialog" />
+    <option name="edit" path="ActionManager" hit="Open 'Edit Run/Debug configurations' dialog" />
+    <option name="open" path="ActionManager" hit="Open 'Edit Run/Debug configurations' dialog" />
+    <option name="run" path="ActionManager" hit="Open 'Edit Run/Debug configurations' dialog" />
+    <option name="corresponding" path="ActionManager" hit="Open Corresponding Popup Menu" />
+    <option name="menu" path="ActionManager" hit="Open Corresponding Popup Menu" />
+    <option name="open" path="ActionManager" hit="Open Corresponding Popup Menu" />
+    <option name="popup" path="ActionManager" hit="Open Corresponding Popup Menu" />
     <option name="console" path="ActionManager" hit="Open IDE scripting console" />
     <option name="ide" path="ActionManager" hit="Open IDE scripting console" />
     <option name="open" path="ActionManager" hit="Open IDE scripting console" />
@@ -1411,19 +1530,6 @@
     <option name="selected" path="ActionManager" hit="Open browser with documentation for the selected item" />
     <option name="the" path="ActionManager" hit="Open browser with documentation for the selected item" />
     <option name="with" path="ActionManager" hit="Open browser with documentation for the selected item" />
-    <option name="console" path="ActionManager" hit="Open console with the navigatable stack trace" />
-    <option name="navigatable" path="ActionManager" hit="Open console with the navigatable stack trace" />
-    <option name="open" path="ActionManager" hit="Open console with the navigatable stack trace" />
-    <option name="stack" path="ActionManager" hit="Open console with the navigatable stack trace" />
-    <option name="the" path="ActionManager" hit="Open console with the navigatable stack trace" />
-    <option name="trace" path="ActionManager" hit="Open console with the navigatable stack trace" />
-    <option name="with" path="ActionManager" hit="Open console with the navigatable stack trace" />
-    <option name="configurations" path="ActionManager" hit="Open edit Run/Debug configurations dialog" />
-    <option name="debug" path="ActionManager" hit="Open edit Run/Debug configurations dialog" />
-    <option name="dialog" path="ActionManager" hit="Open edit Run/Debug configurations dialog" />
-    <option name="edit" path="ActionManager" hit="Open edit Run/Debug configurations dialog" />
-    <option name="open" path="ActionManager" hit="Open edit Run/Debug configurations dialog" />
-    <option name="run" path="ActionManager" hit="Open edit Run/Debug configurations dialog" />
     <option name="hints" path="ActionManager" hit="Open parameter name hints settings" />
     <option name="name" path="ActionManager" hit="Open parameter name hints settings" />
     <option name="open" path="ActionManager" hit="Open parameter name hints settings" />
@@ -1450,6 +1556,7 @@
     <option name="methods" path="ActionManager" hit="Override base class methods in the current class" />
     <option name="override" path="ActionManager" hit="Override base class methods in the current class" />
     <option name="the" path="ActionManager" hit="Override base class methods in the current class" />
+    <option name="packages" path="ActionManager" hit="Packages" />
     <option name="info" path="ActionManager" hit="Parameter Info" />
     <option name="parameter" path="ActionManager" hit="Parameter Info" />
     <option name="object" path="ActionManager" hit="Parameter Object..." />
@@ -1457,6 +1564,11 @@
     <option name="parameter" path="ActionManager" hit="Parameter..." />
     <option name="output" path="ActionManager" hit="Pause Output" />
     <option name="pause" path="ActionManager" hit="Pause Output" />
+    <option name="action" path="ActionManager" hit="Perform Action on Selected Item" />
+    <option name="item" path="ActionManager" hit="Perform Action on Selected Item" />
+    <option name="on" path="ActionManager" hit="Perform Action on Selected Item" />
+    <option name="perform" path="ActionManager" hit="Perform Action on Selected Item" />
+    <option name="selected" path="ActionManager" hit="Perform Action on Selected Item" />
     <option name="current" path="ActionManager" hit="Popup structure of the current file for quick navigation" />
     <option name="file" path="ActionManager" hit="Popup structure of the current file for quick navigation" />
     <option name="for" path="ActionManager" hit="Popup structure of the current file for quick navigation" />
@@ -1515,12 +1627,6 @@
     <option name="popup" path="ActionManager" hit="Project View Popup Menu Modify Group" />
     <option name="project" path="ActionManager" hit="Project View Popup Menu Modify Group" />
     <option name="view" path="ActionManager" hit="Project View Popup Menu Modify Group" />
-    <option name="group" path="ActionManager" hit="Project View Popup Menu Settings Group" />
-    <option name="menu" path="ActionManager" hit="Project View Popup Menu Settings Group" />
-    <option name="popup" path="ActionManager" hit="Project View Popup Menu Settings Group" />
-    <option name="project" path="ActionManager" hit="Project View Popup Menu Settings Group" />
-    <option name="settings" path="ActionManager" hit="Project View Popup Menu Settings Group" />
-    <option name="view" path="ActionManager" hit="Project View Popup Menu Settings Group" />
     <option name="members" path="ActionManager" hit="Pull Members Up..." />
     <option name="pull" path="ActionManager" hit="Pull Members Up..." />
     <option name="up" path="ActionManager" hit="Pull Members Up..." />
@@ -1677,6 +1783,37 @@
     <option name="rename" path="ActionManager" hit="Rename..." />
     <option name="project" path="ActionManager" hit="Renames project" />
     <option name="renames" path="ActionManager" hit="Renames project" />
+    <option name="direction" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="find" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="in" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="last" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="moving" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="occurrence" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="of" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="operation" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="or" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="previous" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="repeat" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="replace" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="reverse" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="selected" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="text" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="the" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="to" path="ActionManager" hit="Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text" />
+    <option name="find" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
+    <option name="last" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
+    <option name="moving" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
+    <option name="next" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
+    <option name="occurrence" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
+    <option name="of" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
+    <option name="operation" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
+    <option name="or" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
+    <option name="repeat" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
+    <option name="replace" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
+    <option name="selected" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
+    <option name="text" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
+    <option name="the" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
+    <option name="to" path="ActionManager" hit="Repeat the last Find/Replace operation, or moving to next occurrence of selected text" />
     <option name="a" path="ActionManager" hit="Replace a string in active editor with another string" />
     <option name="active" path="ActionManager" hit="Replace a string in active editor with another string" />
     <option name="another" path="ActionManager" hit="Replace a string in active editor with another string" />
@@ -1705,6 +1842,27 @@
     <option name="selected" path="ActionManager" hit="Replace selected expression with a constant (static final field)" />
     <option name="static" path="ActionManager" hit="Replace selected expression with a constant (static final field)" />
     <option name="with" path="ActionManager" hit="Replace selected expression with a constant (static final field)" />
+    <option name="a" path="ActionManager" hit="Replace selected statements with a call to a new functional method parameter" />
+    <option name="call" path="ActionManager" hit="Replace selected statements with a call to a new functional method parameter" />
+    <option name="functional" path="ActionManager" hit="Replace selected statements with a call to a new functional method parameter" />
+    <option name="method" path="ActionManager" hit="Replace selected statements with a call to a new functional method parameter" />
+    <option name="new" path="ActionManager" hit="Replace selected statements with a call to a new functional method parameter" />
+    <option name="parameter" path="ActionManager" hit="Replace selected statements with a call to a new functional method parameter" />
+    <option name="replace" path="ActionManager" hit="Replace selected statements with a call to a new functional method parameter" />
+    <option name="selected" path="ActionManager" hit="Replace selected statements with a call to a new functional method parameter" />
+    <option name="statements" path="ActionManager" hit="Replace selected statements with a call to a new functional method parameter" />
+    <option name="to" path="ActionManager" hit="Replace selected statements with a call to a new functional method parameter" />
+    <option name="with" path="ActionManager" hit="Replace selected statements with a call to a new functional method parameter" />
+    <option name="a" path="ActionManager" hit="Replace selected statements with a call to a new functional variable" />
+    <option name="call" path="ActionManager" hit="Replace selected statements with a call to a new functional variable" />
+    <option name="functional" path="ActionManager" hit="Replace selected statements with a call to a new functional variable" />
+    <option name="new" path="ActionManager" hit="Replace selected statements with a call to a new functional variable" />
+    <option name="replace" path="ActionManager" hit="Replace selected statements with a call to a new functional variable" />
+    <option name="selected" path="ActionManager" hit="Replace selected statements with a call to a new functional variable" />
+    <option name="statements" path="ActionManager" hit="Replace selected statements with a call to a new functional variable" />
+    <option name="to" path="ActionManager" hit="Replace selected statements with a call to a new functional variable" />
+    <option name="variable" path="ActionManager" hit="Replace selected statements with a call to a new functional variable" />
+    <option name="with" path="ActionManager" hit="Replace selected statements with a call to a new functional variable" />
     <option name="replace" path="ActionManager" hit="Replace..." />
     <option name="list" path="ActionManager" hit="Replaces method parameters list with object" />
     <option name="method" path="ActionManager" hit="Replaces method parameters list with object" />
@@ -1715,11 +1873,14 @@
     <option name="rerun" path="ActionManager" hit="Rerun" />
     <option name="rerun" path="ActionManager" hit="Rerun Tests" />
     <option name="tests" path="ActionManager" hit="Rerun Tests" />
+    <option name="configuration" path="ActionManager" hit="Restore Configuration" />
+    <option name="restore" path="ActionManager" hit="Restore Configuration" />
     <option name="default" path="ActionManager" hit="Restore Default Extensions" />
     <option name="extensions" path="ActionManager" hit="Restore Default Extensions" />
     <option name="restore" path="ActionManager" hit="Restore Default Extensions" />
-    <option name="layout" path="ActionManager" hit="Restore Layout" />
-    <option name="restore" path="ActionManager" hit="Restore Layout" />
+    <option name="default" path="ActionManager" hit="Restore Default Layout" />
+    <option name="layout" path="ActionManager" hit="Restore Default Layout" />
+    <option name="restore" path="ActionManager" hit="Restore Default Layout" />
     <option name="bundled" path="ActionManager" hit="Restore bundled extensions for this directory" />
     <option name="directory" path="ActionManager" hit="Restore bundled extensions for this directory" />
     <option name="extensions" path="ActionManager" hit="Restore bundled extensions for this directory" />
@@ -1864,8 +2025,20 @@
     <option name="all" path="ActionManager" hit="Select All Occurrences" />
     <option name="occurrences" path="ActionManager" hit="Select All Occurrences" />
     <option name="select" path="ActionManager" hit="Select All Occurrences" />
+    <option name="first" path="ActionManager" hit="Select First Item" />
+    <option name="item" path="ActionManager" hit="Select First Item" />
+    <option name="select" path="ActionManager" hit="Select First Item" />
     <option name="in" path="ActionManager" hit="Select In..." />
     <option name="select" path="ActionManager" hit="Select In..." />
+    <option name="item" path="ActionManager" hit="Select Last Item" />
+    <option name="last" path="ActionManager" hit="Select Last Item" />
+    <option name="select" path="ActionManager" hit="Select Last Item" />
+    <option name="item" path="ActionManager" hit="Select Next Item" />
+    <option name="next" path="ActionManager" hit="Select Next Item" />
+    <option name="select" path="ActionManager" hit="Select Next Item" />
+    <option name="item" path="ActionManager" hit="Select Previous Item" />
+    <option name="previous" path="ActionManager" hit="Select Previous Item" />
+    <option name="select" path="ActionManager" hit="Select Previous Item" />
     <option name="configuration" path="ActionManager" hit="Select Run/Debug Configuration" />
     <option name="debug" path="ActionManager" hit="Select Run/Debug Configuration" />
     <option name="run" path="ActionManager" hit="Select Run/Debug Configuration" />
@@ -1899,6 +2072,10 @@
     <option name="favorites" path="ActionManager" hit="Send to Favorites" />
     <option name="send" path="ActionManager" hit="Send to Favorites" />
     <option name="to" path="ActionManager" hit="Send to Favorites" />
+    <option name="groups" path="ActionManager" hit="Service Groups" />
+    <option name="service" path="ActionManager" hit="Service Groups" />
+    <option name="service" path="ActionManager" hit="Service Type" />
+    <option name="type" path="ActionManager" hit="Service Type" />
     <option name="adding" path="ActionManager" hit="Set multiple cursors by adding all occurrences of the current word to the selection." />
     <option name="all" path="ActionManager" hit="Set multiple cursors by adding all occurrences of the current word to the selection." />
     <option name="by" path="ActionManager" hit="Set multiple cursors by adding all occurrences of the current word to the selection." />
@@ -1929,15 +2106,15 @@
     <option name="show" path="ActionManager" hit="Show Bookmarks" />
     <option name="configurations" path="ActionManager" hit="Show Configurations" />
     <option name="show" path="ActionManager" hit="Show Configurations" />
+    <option name="actions" path="ActionManager" hit="Show Context Actions" />
+    <option name="context" path="ActionManager" hit="Show Context Actions" />
+    <option name="show" path="ActionManager" hit="Show Context Actions" />
     <option name="filter" path="ActionManager" hit="Show Filter Popup" />
     <option name="popup" path="ActionManager" hit="Show Filter Popup" />
     <option name="show" path="ActionManager" hit="Show Filter Popup" />
     <option name="import" path="ActionManager" hit="Show Import Popups" />
     <option name="popups" path="ActionManager" hit="Show Import Popups" />
     <option name="show" path="ActionManager" hit="Show Import Popups" />
-    <option name="actions" path="ActionManager" hit="Show Intention Actions" />
-    <option name="intention" path="ActionManager" hit="Show Intention Actions" />
-    <option name="show" path="ActionManager" hit="Show Intention Actions" />
     <option name="dialog" path="ActionManager" hit="Show Reformat File Dialog" />
     <option name="file" path="ActionManager" hit="Show Reformat File Dialog" />
     <option name="reformat" path="ActionManager" hit="Show Reformat File Dialog" />
@@ -1945,6 +2122,9 @@
     <option name="list" path="ActionManager" hit="Show Running List" />
     <option name="running" path="ActionManager" hit="Show Running List" />
     <option name="show" path="ActionManager" hit="Show Running List" />
+    <option name="services" path="ActionManager" hit="Show Services Tree" />
+    <option name="show" path="ActionManager" hit="Show Services Tree" />
+    <option name="tree" path="ActionManager" hit="Show Services Tree" />
     <option name="editor" path="ActionManager" hit="Show Severities Editor" />
     <option name="severities" path="ActionManager" hit="Show Severities Editor" />
     <option name="show" path="ActionManager" hit="Show Severities Editor" />
@@ -1972,6 +2152,12 @@
     <option name="the" path="ActionManager" hit="Show a popup window with the symbol (and its implementations) content" />
     <option name="window" path="ActionManager" hit="Show a popup window with the symbol (and its implementations) content" />
     <option name="with" path="ActionManager" hit="Show a popup window with the symbol (and its implementations) content" />
+    <option name="between" path="ActionManager" hit="Show dependencies between modules in project" />
+    <option name="dependencies" path="ActionManager" hit="Show dependencies between modules in project" />
+    <option name="in" path="ActionManager" hit="Show dependencies between modules in project" />
+    <option name="modules" path="ActionManager" hit="Show dependencies between modules in project" />
+    <option name="project" path="ActionManager" hit="Show dependencies between modules in project" />
+    <option name="show" path="ActionManager" hit="Show dependencies between modules in project" />
     <option name="at" path="ActionManager" hit="Show description of error or warning at caret" />
     <option name="caret" path="ActionManager" hit="Show description of error or warning at caret" />
     <option name="description" path="ActionManager" hit="Show description of error or warning at caret" />
@@ -1986,6 +2172,10 @@
     <option name="gutter" path="ActionManager" hit="Show dialog for configuring gutter icons" />
     <option name="icons" path="ActionManager" hit="Show dialog for configuring gutter icons" />
     <option name="show" path="ActionManager" hit="Show dialog for configuring gutter icons" />
+    <option name="in" path="ActionManager" hit="Show in New Tab" />
+    <option name="new" path="ActionManager" hit="Show in New Tab" />
+    <option name="show" path="ActionManager" hit="Show in New Tab" />
+    <option name="tab" path="ActionManager" hit="Show in New Tab" />
     <option name="at" path="ActionManager" hit="Show list of Run Configurations running at the moment" />
     <option name="configurations" path="ActionManager" hit="Show list of Run Configurations running at the moment" />
     <option name="list" path="ActionManager" hit="Show list of Run Configurations running at the moment" />
@@ -2073,6 +2263,13 @@
     <option name="code" path="ActionManager" hit="Silent Code Cleanup" />
     <option name="silent" path="ActionManager" hit="Silent Code Cleanup" />
     <option name="smarttype" path="ActionManager" hit="SmartType" />
+    <option name="by" path="ActionManager" hit="Split By Type" />
+    <option name="split" path="ActionManager" hit="Split By Type" />
+    <option name="type" path="ActionManager" hit="Split By Type" />
+    <option name="new" path="ActionManager" hit="Split to New Tabs" />
+    <option name="split" path="ActionManager" hit="Split to New Tabs" />
+    <option name="tabs" path="ActionManager" hit="Split to New Tabs" />
+    <option name="to" path="ActionManager" hit="Split to New Tabs" />
     <option name="0" path="ActionManager" hit="Start incremental search (searches string as you type), IntelliJ IDEA 6.0 implementation." />
     <option name="6" path="ActionManager" hit="Start incremental search (searches string as you type), IntelliJ IDEA 6.0 implementation." />
     <option name="as" path="ActionManager" hit="Start incremental search (searches string as you type), IntelliJ IDEA 6.0 implementation." />
@@ -2086,6 +2283,7 @@
     <option name="string" path="ActionManager" hit="Start incremental search (searches string as you type), IntelliJ IDEA 6.0 implementation." />
     <option name="type" path="ActionManager" hit="Start incremental search (searches string as you type), IntelliJ IDEA 6.0 implementation." />
     <option name="you" path="ActionManager" hit="Start incremental search (searches string as you type), IntelliJ IDEA 6.0 implementation." />
+    <option name="status" path="ActionManager" hit="Status" />
     <option name="stop" path="ActionManager" hit="Stop" />
     <option name="background" path="ActionManager" hit="Stop Background Processes..." />
     <option name="processes" path="ActionManager" hit="Stop Background Processes..." />
@@ -2169,6 +2367,7 @@
     <option name="to" path="ActionManager" hit="Switch to the previous project window" />
     <option name="window" path="ActionManager" hit="Switch to the previous project window" />
     <option name="symbol" path="ActionManager" hit="Symbol..." />
+    <option name="todo" path="ActionManager" hit="TODO" />
     <option name="test" path="ActionManager" hit="Test" />
     <option name="root" path="ActionManager" hit="Test Sources Root" />
     <option name="sources" path="ActionManager" hit="Test Sources Root" />
@@ -2262,6 +2461,7 @@
     <option name="selected" path="ActionManager" hit="Turn the selected expression into method parameter" />
     <option name="the" path="ActionManager" hit="Turn the selected expression into method parameter" />
     <option name="turn" path="ActionManager" hit="Turn the selected expression into method parameter" />
+    <option name="type" path="ActionManager" hit="Type" />
     <option name="declaration" path="ActionManager" hit="Type Declaration" />
     <option name="type" path="ActionManager" hit="Type Declaration" />
     <option name="hierarchy" path="ActionManager" hit="Type Hierarchy" />
@@ -2284,8 +2484,6 @@
     <option name="offline" path="ActionManager" hit="View Offline Inspection Results..." />
     <option name="results" path="ActionManager" hit="View Offline Inspection Results..." />
     <option name="view" path="ActionManager" hit="View Offline Inspection Results..." />
-    <option name="options" path="ActionManager" hit="View Options" />
-    <option name="view" path="ActionManager" hit="View Options" />
     <option name="current" path="ActionManager" hit="View PSI Structure of Current File..." />
     <option name="file" path="ActionManager" hit="View PSI Structure of Current File..." />
     <option name="of" path="ActionManager" hit="View PSI Structure of Current File..." />
@@ -2295,6 +2493,8 @@
     <option name="psi" path="ActionManager" hit="View PSI Structure..." />
     <option name="structure" path="ActionManager" hit="View PSI Structure..." />
     <option name="view" path="ActionManager" hit="View PSI Structure..." />
+    <option name="_move" path="ActionManager" hit="_Move module" />
+    <option name="module" path="ActionManager" hit="_Move module" />
   </configurable>
   <configurable id="preferences.editor" configurable_name="General">
     <option name="" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use ; to separate patterns, * and ? as wildcards   " />
@@ -2341,15 +2541,6 @@
     <option name="settings" hit=" Honor &quot;CamelHumps&quot; words settings when selecting on double click " />
     <option name="when" hit=" Honor &quot;CamelHumps&quot; words settings when selecting on double click " />
     <option name="words" hit=" Honor &quot;CamelHumps&quot; words settings when selecting on double click " />
-    <option name="" hit=" Maximum number of contents to keep  in clipboard: " />
-    <option name="clipboard" hit=" Maximum number of contents to keep  in clipboard: " />
-    <option name="contents" hit=" Maximum number of contents to keep  in clipboard: " />
-    <option name="in" hit=" Maximum number of contents to keep  in clipboard: " />
-    <option name="keep" hit=" Maximum number of contents to keep  in clipboard: " />
-    <option name="maximum" hit=" Maximum number of contents to keep  in clipboard: " />
-    <option name="number" hit=" Maximum number of contents to keep  in clipboard: " />
-    <option name="of" hit=" Maximum number of contents to keep  in clipboard: " />
-    <option name="to" hit=" Maximum number of contents to keep  in clipboard: " />
     <option name="" hit="'Next Error' action goes to high priority problems only" />
     <option name="action" hit="'Next Error' action goes to high priority problems only" />
     <option name="error" hit="'Next Error' action goes to high priority problems only" />
@@ -2386,8 +2577,10 @@
     <option name="autoreparse" hit="Autoreparse delay (ms):" />
     <option name="delay" hit="Autoreparse delay (ms):" />
     <option name="ms" hit="Autoreparse delay (ms):" />
-    <option name="color" hit="Color scheme" />
-    <option name="scheme" hit="Color scheme" />
+    <option name="caret" hit="Caret Movement" />
+    <option name="movement" hit="Caret Movement" />
+    <option name="color" hit="Color scheme:" />
+    <option name="scheme" hit="Color scheme:" />
     <option name="as" hit="Copy as rich text by default" />
     <option name="by" hit="Copy as rich text by default" />
     <option name="copy" hit="Copy as rich text by default" />
@@ -2481,12 +2674,13 @@
     <option name="copy" hit="Rich-text copy" />
     <option name="rich-text" hit="Rich-text copy" />
     <option name="scrolling" hit="Scrolling" />
-    <option name="dialog" hit="Show inline dialog for local variables" />
-    <option name="for" hit="Show inline dialog for local variables" />
-    <option name="inline" hit="Show inline dialog for local variables" />
-    <option name="local" hit="Show inline dialog for local variables" />
-    <option name="show" hit="Show inline dialog for local variables" />
-    <option name="variables" hit="Show inline dialog for local variables" />
+    <option name="dialog" hit="Show inline dialog on local variable references" />
+    <option name="inline" hit="Show inline dialog on local variable references" />
+    <option name="local" hit="Show inline dialog on local variable references" />
+    <option name="on" hit="Show inline dialog on local variable references" />
+    <option name="references" hit="Show inline dialog on local variable references" />
+    <option name="show" hit="Show inline dialog on local variable references" />
+    <option name="variable" hit="Show inline dialog on local variable references" />
     <option name="action" hit="Show notification after optimize imports action" />
     <option name="after" hit="Show notification after optimize imports action" />
     <option name="imports" hit="Show notification after optimize imports action" />
@@ -2530,6 +2724,9 @@
     <option name="spaces" hit="Strip trailing spaces on Save:" />
     <option name="strip" hit="Strip trailing spaces on Save:" />
     <option name="trailing" hit="Strip trailing spaces on Save:" />
+    <option name="break" hit="Upon line break:" />
+    <option name="line" hit="Upon line break:" />
+    <option name="upon" hit="Upon line break:" />
     <option name="for" hit="Use original line's indent for wrapped parts" />
     <option name="indent" hit="Use original line's indent for wrapped parts" />
     <option name="line" hit="Use original line's indent for wrapped parts" />
@@ -2540,10 +2737,72 @@
     <option name="wrapped" hit="Use original line's indent for wrapped parts" />
     <option name="space" hit="Virtual Space" />
     <option name="virtual" hit="Virtual Space" />
+    <option name="by" hit="When moving by words:" />
+    <option name="moving" hit="When moving by words:" />
+    <option name="when" hit="When moving by words:" />
+    <option name="words" hit="When moving by words:" />
+    <option_top_hit name="Mouse: Honor \&quot;CamelHumps\&quot; words settings when selecting ondouble click" />
+    <option_top_hit name="Mouse: Enable Drag'n'Drop functionality in editor" />
+    <option_top_hit name="Mouse: Change font size (Zoom) with Ctrl+Mouse Wheel" />
+    <option_top_hit name="Scrolling: Smooth scrolling" />
+    <option_top_hit name="Error highlighting: Suppress with @SuppressWarnings (since Java 5.0)" />
+    <option_top_hit name="Error highlighting: 'Next Error' action goes to high priority problems only" />
+    <option_top_hit name="Virtual Space: Show virtual space at file bottom" />
+    <option_top_hit name="Virtual Space: Allow placement of caret inside tabs" />
+    <option_top_hit name="Virtual Space: Allow placement of caret after end of line" />
+    <option_top_hit name="Highlight on Caret Movement: Highlight current scope" />
+    <option_top_hit name="Highlight on Caret Movement: Highlight matched brace" />
+    <option_top_hit name="Highlight on Caret Movement: Highlight usages of element at caret" />
+    <option_top_hit name="Formatting: Show notification after reformat code action" />
+    <option_top_hit name="Formatting: Show notification after optimize imports action" />
+    <option_top_hit name="Refactorings: Enable in-place mode" />
+    <option_top_hit name="Refactorings: Preselect old name" />
+    <option_top_hit name="Refactorings: Show inline dialog on local variable references" />
+    <option_top_hit name="Rich-text copy | Color scheme | Active scheme" />
+    <option_top_hit name="Rich-text copy | Color scheme | Default" />
+    <option_top_hit name="Rich-text copy | Color scheme | Darcula" />
+    <option_top_hit name="Rich-text copy: Copy as rich text by default" />
+    <option_top_hit name="Other: Show quick documentation on mouse move" />
+    <option_top_hit name="Other: Highlight modified lines in gutter" />
+    <option_top_hit name="Other: Different color for lines with whitespace-only modifications" />
+    <option_top_hit name="Other: Ensure line feed at file end on Save" />
+    <option_top_hit name="Other | Strip trailing spaces on Save | Modified Lines" />
+    <option_top_hit name="Other | Strip trailing spaces on Save | All" />
+    <option_top_hit name="Other | Strip trailing spaces on Save | None" />
+    <option_top_hit name="Other: Always keep trailing spaces on caret line" />
+    <option_top_hit name="Soft Wraps: Show soft wrap indicators for current line only" />
+    <option_top_hit name="Soft Wraps: Use original line's indent for wrapped parts" />
+    <option_top_hit name="Soft Wraps: Soft-wrap files:*.md; *.txt; *.rst; *.adoc" />
   </configurable>
   <configurable id="editor.preferences.import" configurable_name="Auto Import">
     <option name="auto" hit="Auto Import" />
     <option name="import" hit="Auto Import" />
+    <option_top_hit name="Auto Import: XML: Show import popup" />
+    <option_top_hit name="Auto Import: Java: Add unambiguous imports on the fly" />
+    <option_top_hit name="Auto Import | Java | Insert imports on paste | All" />
+    <option_top_hit name="Auto Import | Java | Insert imports on paste | Ask" />
+    <option_top_hit name="Auto Import | Java | Insert imports on paste | None" />
+    <option_top_hit name="Auto Import: Java: classes" />
+    <option_top_hit name="Auto Import: Java: static methods and fields" />
+    <option_top_hit name="Auto Import: Java: Optimize imports on the fly (for current project)" />
+    <option_top_hit name="Auto Import: TypeScript / JavaScript: Add ES6 imports on code completion" />
+    <option_top_hit name="Auto Import: TypeScript / JavaScript: Add TypeScript imports automatically" />
+    <option_top_hit name="Auto Import: TypeScript / JavaScript: On code completion" />
+    <option_top_hit name="Auto Import: TypeScript / JavaScript: With import popup" />
+    <option_top_hit name="Auto Import: TypeScript / JavaScript: Unambiguous imports on the fly" />
+    <option_top_hit name="Auto Import: PHP: Enable auto-import in file scope" />
+    <option_top_hit name="Auto Import: PHP: Enable auto-import in namespace scope" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Class prefer import" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Class prefer FQN" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Function prefer fallback" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Function prefer import" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Function prefer FQN" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Constant prefer fallback" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Constant prefer import" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Constant prefer FQN" />
+    <option_top_hit name="Auto Import | PHP | Insert imports on paste | All" />
+    <option_top_hit name="Auto Import | PHP | Insert imports on paste | Ask" />
+    <option_top_hit name="Auto Import | PHP | Insert imports on paste | None" />
   </configurable>
   <configurable id="editor.preferences.appearance" configurable_name="Appearance">
     <option name="appearance" hit="Appearance" />
@@ -2674,6 +2933,39 @@
     <option name="folding" hit="Show code folding outline" />
     <option name="outline" hit="Show code folding outline" />
     <option name="show" hit="Show code folding outline" />
+    <option_top_hit name="Show code folding outline" />
+    <option_top_hit name="Collapse by default: File header" />
+    <option_top_hit name="Collapse by default: Imports" />
+    <option_top_hit name="Collapse by default: Documentation comments" />
+    <option_top_hit name="Collapse by default: Method bodies" />
+    <option_top_hit name="Collapse by default: Custom folding regions" />
+    <option_top_hit name="Collapse by default: XML tags" />
+    <option_top_hit name="Collapse by default: HTML 'style' attribute" />
+    <option_top_hit name="Collapse by default: XML entities" />
+    <option_top_hit name="Collapse by default: Data URIs" />
+    <option_top_hit name="Collapse by default: One-line methods" />
+    <option_top_hit name="Collapse by default: Simple property accessors" />
+    <option_top_hit name="Collapse by default: Inner classes" />
+    <option_top_hit name="Collapse by default: Anonymous classes" />
+    <option_top_hit name="Collapse by default: Annotations" />
+    <option_top_hit name="Collapse by default: \&quot;Closures\&quot; (anonymous classes implementing one method, before Java 8)" />
+    <option_top_hit name="Collapse by default: Generic constructor and method parameters" />
+    <option_top_hit name="Collapse by default: Replace 'var' with inferred type" />
+    <option_top_hit name="Collapse by default: I18n strings" />
+    <option_top_hit name="Collapse by default: @SuppressWarnings" />
+    <option_top_hit name="Collapse by default: End of line comments sequence" />
+    <option_top_hit name="Collapse by default: Multiline comments" />
+    <option_top_hit name="Collapse by default: Long SQL literals" />
+    <option_top_hit name="Collapse by default: One-line functions in JavaScript and TypeScript" />
+    <option_top_hit name="Collapse by default: Object literals" />
+    <option_top_hit name="Collapse by default: Array literals" />
+    <option_top_hit name="Collapse by default: XML literals" />
+    <option_top_hit name="Collapse by default: PHP class body" />
+    <option_top_hit name="Collapse by default: PHP imports" />
+    <option_top_hit name="Collapse by default: PHP method body" />
+    <option_top_hit name="Collapse by default: PHP function body" />
+    <option_top_hit name="Collapse by default: PHP tags" />
+    <option_top_hit name="Collapse by default: PHP HEREDOC\\NOWDOC" />
   </configurable>
   <configurable id="editor.preferences.folding" configurable_name="Code Folding">
     <option name="custom" hit="Custom folding regions" />
@@ -2686,6 +2978,39 @@
     <option name="imports" hit="Imports" />
     <option name="bodies" hit="Method bodies" />
     <option name="method" hit="Method bodies" />
+    <option_top_hit name="Show code folding outline" />
+    <option_top_hit name="Collapse by default: File header" />
+    <option_top_hit name="Collapse by default: Imports" />
+    <option_top_hit name="Collapse by default: Documentation comments" />
+    <option_top_hit name="Collapse by default: Method bodies" />
+    <option_top_hit name="Collapse by default: Custom folding regions" />
+    <option_top_hit name="Collapse by default: XML tags" />
+    <option_top_hit name="Collapse by default: HTML 'style' attribute" />
+    <option_top_hit name="Collapse by default: XML entities" />
+    <option_top_hit name="Collapse by default: Data URIs" />
+    <option_top_hit name="Collapse by default: One-line methods" />
+    <option_top_hit name="Collapse by default: Simple property accessors" />
+    <option_top_hit name="Collapse by default: Inner classes" />
+    <option_top_hit name="Collapse by default: Anonymous classes" />
+    <option_top_hit name="Collapse by default: Annotations" />
+    <option_top_hit name="Collapse by default: \&quot;Closures\&quot; (anonymous classes implementing one method, before Java 8)" />
+    <option_top_hit name="Collapse by default: Generic constructor and method parameters" />
+    <option_top_hit name="Collapse by default: Replace 'var' with inferred type" />
+    <option_top_hit name="Collapse by default: I18n strings" />
+    <option_top_hit name="Collapse by default: @SuppressWarnings" />
+    <option_top_hit name="Collapse by default: End of line comments sequence" />
+    <option_top_hit name="Collapse by default: Multiline comments" />
+    <option_top_hit name="Collapse by default: Long SQL literals" />
+    <option_top_hit name="Collapse by default: One-line functions in JavaScript and TypeScript" />
+    <option_top_hit name="Collapse by default: Object literals" />
+    <option_top_hit name="Collapse by default: Array literals" />
+    <option_top_hit name="Collapse by default: XML literals" />
+    <option_top_hit name="Collapse by default: PHP class body" />
+    <option_top_hit name="Collapse by default: PHP imports" />
+    <option_top_hit name="Collapse by default: PHP method body" />
+    <option_top_hit name="Collapse by default: PHP function body" />
+    <option_top_hit name="Collapse by default: PHP tags" />
+    <option_top_hit name="Collapse by default: PHP HEREDOC\\NOWDOC" />
   </configurable>
   <configurable id="Console" configurable_name="Console">
     <option name="" hit=" KB" />
@@ -2713,123 +3038,6 @@
     <option name="soft" hit="Use soft wraps in console" />
     <option name="use" hit="Use soft wraps in console" />
     <option name="wraps" hit="Use soft wraps in console" />
-  </configurable>
-  <configurable id="editor.preferences.tabs" configurable_name="Editor Tabs">
-    <option name="" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="589df6" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="800080" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="a" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="active" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="are" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="changes" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="class" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="color" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="contains" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="current" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="declaration" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="f00000" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="file" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="hover" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="if" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="link" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="method" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="navigating" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="no" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="replace" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="source" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="tab" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="that" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="the" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="there" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="to" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="variable" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="visited" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="when" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="will" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      When navigating to a method/class/variable declaration, the source file that contains the declaration will replace the current tab if there are no changes.   " />
-    <option name="" hit=" Most recently opened tab " />
-    <option name="most" hit=" Most recently opened tab " />
-    <option name="opened" hit=" Most recently opened tab " />
-    <option name="recently" hit=" Most recently opened tab " />
-    <option name="tab" hit=" Most recently opened tab " />
-    <option name="" hit=" The tab on the left " />
-    <option name="left" hit=" The tab on the left " />
-    <option name="on" hit=" The tab on the left " />
-    <option name="tab" hit=" The tab on the left " />
-    <option name="the" hit=" The tab on the left " />
-    <option name="" hit=" The tab on the right " />
-    <option name="on" hit=" The tab on the right " />
-    <option name="right" hit=" The tab on the right " />
-    <option name="tab" hit=" The tab on the right " />
-    <option name="the" hit=" The tab on the right " />
-    <option name="" hit=" When tabs exceed the limit: " />
-    <option name="exceed" hit=" When tabs exceed the limit: " />
-    <option name="limit" hit=" When tabs exceed the limit: " />
-    <option name="tabs" hit=" When tabs exceed the limit: " />
-    <option name="the" hit=" When tabs exceed the limit: " />
-    <option name="when" hit=" When tabs exceed the limit: " />
-    <option name="appearance" hit="Appearance" />
-    <option name="bottom" hit="Bottom" />
-    <option name="button" hit="Close button position:" />
-    <option name="close" hit="Close button position:" />
-    <option name="position" hit="Close button position:" />
-    <option name="close" hit="Close unchanged" />
-    <option name="unchanged" hit="Close unchanged" />
-    <option name="close" hit="Close unused" />
-    <option name="unused" hit="Close unused" />
-    <option name="closing" hit="Closing Policy" />
-    <option name="policy" hit="Closing Policy" />
-    <option name="editor" hit="Editor Tabs" />
-    <option name="tabs" hit="Editor Tabs" />
-    <option name="hide" hit="Hide tabs if there is no space" />
-    <option name="if" hit="Hide tabs if there is no space" />
-    <option name="is" hit="Hide tabs if there is no space" />
-    <option name="no" hit="Hide tabs if there is no space" />
-    <option name="space" hit="Hide tabs if there is no space" />
-    <option name="tabs" hit="Hide tabs if there is no space" />
-    <option name="there" hit="Hide tabs if there is no space" />
-    <option name="left" hit="Left" />
-    <option name="mark" hit="Mark modified (*)" />
-    <option name="modified" hit="Mark modified (*)" />
-    <option name="none" hit="None" />
-    <option name="declaration" hit="Open declaration source in the same tab" />
-    <option name="in" hit="Open declaration source in the same tab" />
-    <option name="open" hit="Open declaration source in the same tab" />
-    <option name="same" hit="Open declaration source in the same tab" />
-    <option name="source" hit="Open declaration source in the same tab" />
-    <option name="tab" hit="Open declaration source in the same tab" />
-    <option name="the" hit="Open declaration source in the same tab" />
-    <option name="placement" hit="Placement:" />
-    <option name="right" hit="Right" />
-    <option name="directory" hit="Show directory for non-unique file names" />
-    <option name="file" hit="Show directory for non-unique file names" />
-    <option name="for" hit="Show directory for non-unique file names" />
-    <option name="names" hit="Show directory for non-unique file names" />
-    <option name="non-unique" hit="Show directory for non-unique file names" />
-    <option name="show" hit="Show directory for non-unique file names" />
-    <option name="extension" hit="Show file extension" />
-    <option name="file" hit="Show file extension" />
-    <option name="show" hit="Show file extension" />
-    <option name="full" hit="Show full path on mouse hover" />
-    <option name="hover" hit="Show full path on mouse hover" />
-    <option name="mouse" hit="Show full path on mouse hover" />
-    <option name="on" hit="Show full path on mouse hover" />
-    <option name="path" hit="Show full path on mouse hover" />
-    <option name="show" hit="Show full path on mouse hover" />
-    <option name="in" hit="Show tabs in one row" />
-    <option name="one" hit="Show tabs in one row" />
-    <option name="row" hit="Show tabs in one row" />
-    <option name="show" hit="Show tabs in one row" />
-    <option name="tabs" hit="Show tabs in one row" />
-    <option name="limit" hit="Tab limit:" />
-    <option name="tab" hit="Tab limit:" />
-    <option name="top" hit="Top" />
-    <option name="activate" hit="When the current tab is closed, activate:" />
-    <option name="closed" hit="When the current tab is closed, activate:" />
-    <option name="current" hit="When the current tab is closed, activate:" />
-    <option name="is" hit="When the current tab is closed, activate:" />
-    <option name="tab" hit="When the current tab is closed, activate:" />
-    <option name="the" hit="When the current tab is closed, activate:" />
-    <option name="when" hit="When the current tab is closed, activate:" />
   </configurable>
   <configurable id="editor.preferences.gutterIcons" configurable_name="Gutter Icons">
     <option name="gutter" hit="Gutter Icons" />
@@ -2895,13 +3103,15 @@
     <option name="brackets" hit="Insert paired brackets (), [], {},  " />
     <option name="insert" hit="Insert paired brackets (), [], {},  " />
     <option name="paired" hit="Insert paired brackets (), [], {},  " />
-    <option name="bracket" hit="Jump outside closing bracket/quote with Tab" />
-    <option name="closing" hit="Jump outside closing bracket/quote with Tab" />
-    <option name="jump" hit="Jump outside closing bracket/quote with Tab" />
-    <option name="outside" hit="Jump outside closing bracket/quote with Tab" />
-    <option name="quote" hit="Jump outside closing bracket/quote with Tab" />
-    <option name="tab" hit="Jump outside closing bracket/quote with Tab" />
-    <option name="with" hit="Jump outside closing bracket/quote with Tab" />
+    <option name="bracket" hit="Jump outside closing bracket/quote with Tab when typing" />
+    <option name="closing" hit="Jump outside closing bracket/quote with Tab when typing" />
+    <option name="jump" hit="Jump outside closing bracket/quote with Tab when typing" />
+    <option name="outside" hit="Jump outside closing bracket/quote with Tab when typing" />
+    <option name="quote" hit="Jump outside closing bracket/quote with Tab when typing" />
+    <option name="tab" hit="Jump outside closing bracket/quote with Tab when typing" />
+    <option name="typing" hit="Jump outside closing bracket/quote with Tab when typing" />
+    <option name="when" hit="Jump outside closing bracket/quote with Tab when typing" />
+    <option name="with" hit="Jump outside closing bracket/quote with Tab when typing" />
     <option name="none" hit="None" />
     <option name="block" hit="Reformat Block" />
     <option name="reformat" hit="Reformat Block" />
@@ -2935,6 +3145,56 @@
     <option name="camelhumps" hit="Use &quot;CamelHumps&quot; words" />
     <option name="use" hit="Use &quot;CamelHumps&quot; words" />
     <option name="words" hit="Use &quot;CamelHumps&quot; words" />
+    <option_top_hit name="Smart Keys: Home" />
+    <option_top_hit name="Smart Keys: End (on blank line)" />
+    <option_top_hit name="Smart Keys: Insert paired brackets (), [], {}, " />
+    <option_top_hit name="Smart Keys: Insert pair quote" />
+    <option_top_hit name="Smart Keys: Use \&quot;CamelHumps\&quot; words" />
+    <option_top_hit name="Smart Keys | Reformat on paste | None" />
+    <option_top_hit name="Smart Keys | Reformat on paste | Indent Block" />
+    <option_top_hit name="Smart Keys | Reformat on paste | Indent Each Line" />
+    <option_top_hit name="Smart Keys | Reformat on paste | Reformat Block" />
+    <option_top_hit name="Smart Keys: XML/HTML: Insert closing tag on tag completion" />
+    <option_top_hit name="Smart Keys: XML/HTML: Insert required attributes on tag completion" />
+    <option_top_hit name="Smart Keys: XML/HTML: Start attribute on tag completion" />
+    <option_top_hit name="Smart Keys: XML/HTML: Insert required subtags on tag completion" />
+    <option_top_hit name="Smart Keys: XML/HTML: Add quotes for attribute value on typing '=' and attribute completion" />
+    <option_top_hit name="Smart Keys: XML/HTML: Auto-close tag on typing '&lt;/'" />
+    <option_top_hit name="Smart Keys: XML/HTML: Simultaneous '' editing" />
+    <option_top_hit name="Smart Keys: CSS: Select whole CSS identifiers on double click" />
+    <option_top_hit name="Smart Keys: JSON: Insert missing comma on enter" />
+    <option_top_hit name="Smart Keys: JSON: Insert missing comma after matching braces and quotes" />
+    <option_top_hit name="Smart Keys: JSON: Automatically manage commas when pasting JSON fragments" />
+    <option_top_hit name="Smart Keys: JSON: Escape text on paste in string literals" />
+    <option_top_hit name="Smart Keys: JSON: Automatically add quotes to property names when typing ':'" />
+    <option_top_hit name="Smart Keys: JSON: Automatically add whitespace when typing ':' after property names" />
+    <option_top_hit name="Smart Keys: Javadoc: Automatically insert closing tag" />
+    <option_top_hit name="Smart Keys: SQL: Insert string concatenation on Enter" />
+    <option_top_hit name="Smart Keys | SQL | Database/Schema | Always" />
+    <option_top_hit name="Smart Keys | SQL | Database/Schema | On collisions" />
+    <option_top_hit name="Smart Keys | SQL | Database/Schema | Never" />
+    <option_top_hit name="Smart Keys | SQL | Qualify object on code completion and refactorings with | Always" />
+    <option_top_hit name="Smart Keys | SQL | Qualify object on code completion and refactorings with | On collisions" />
+    <option_top_hit name="Smart Keys | SQL | Qualify object on code completion and refactorings with | Never" />
+    <option_top_hit name="Smart Keys | SQL | Alias Always" />
+    <option_top_hit name="Smart Keys | SQL | Alias On collisions" />
+    <option_top_hit name="Smart Keys | SQL | Alias Never" />
+    <option_top_hit name="Smart Keys: JavaScript: Start template string interpolation on typing '$'" />
+    <option_top_hit name="Smart Keys: JavaScript: Escape text on paste in string literals" />
+    <option_top_hit name="Smart Keys: JavaScript: Convert attributes when pasting HTML to JSX files" />
+    <option_top_hit name="Smart Keys: PHP: Enable smart function parameters completion" />
+    <option_top_hit name="Smart Keys: PHP: Select variable name without '$' sign on double click" />
+    <option_top_hit name="Smart Keys: PHP: Remove PHP open/close tags while pasting in PHP context" />
+    <option_top_hit name="Smart Keys: Reformat block on typing '}'" />
+    <option_top_hit name="Smart Keys: Surround selection on typing quote or brace" />
+    <option_top_hit name="Smart Keys | Backspace | Unindent | Disabled" />
+    <option_top_hit name="Smart Keys | Backspace | Unindent | To nearest indent position" />
+    <option_top_hit name="Smart Keys | Backspace | Unindent | To proper indent position" />
+    <option_top_hit name="Smart Keys: Enter: Smart indent" />
+    <option_top_hit name="Smart Keys: Enter: Insert pair '}'" />
+    <option_top_hit name="Smart Keys: Enter: Insert documentation comment stub" />
+    <option_top_hit name="Smart Keys: Add multiple carets on double Ctrl with arrow keys" />
+    <option_top_hit name="Smart Keys: Jump outside closing bracket/quote with Tab when typing" />
   </configurable>
   <configurable id="editor.preferences.fonts.default" configurable_name="Font">
     <option name="" hit="  defined in the color scheme" />
@@ -3072,6 +3332,16 @@
     <option name="line" hit="Editor//Tear line selection" />
     <option name="selection" hit="Editor//Tear line selection" />
     <option name="tear" hit="Editor//Tear line selection" />
+    <option name="editor" hit="Editor//Vertical Scrollbar//Thumb" />
+    <option name="scrollbar" hit="Editor//Vertical Scrollbar//Thumb" />
+    <option name="thumb" hit="Editor//Vertical Scrollbar//Thumb" />
+    <option name="vertical" hit="Editor//Vertical Scrollbar//Thumb" />
+    <option name="editor" hit="Editor//Vertical Scrollbar//Thumb while scrolling" />
+    <option name="scrollbar" hit="Editor//Vertical Scrollbar//Thumb while scrolling" />
+    <option name="scrolling" hit="Editor//Vertical Scrollbar//Thumb while scrolling" />
+    <option name="thumb" hit="Editor//Vertical Scrollbar//Thumb while scrolling" />
+    <option name="vertical" hit="Editor//Vertical Scrollbar//Thumb while scrolling" />
+    <option name="while" hit="Editor//Vertical Scrollbar//Thumb while scrolling" />
     <option name="and" hit="Errors and Warnings//Deprecated symbol" />
     <option name="deprecated" hit="Errors and Warnings//Deprecated symbol" />
     <option name="errors" hit="Errors and Warnings//Deprecated symbol" />
@@ -3146,6 +3416,11 @@
     <option name="coverage" hit="Line Coverage//Uncovered" />
     <option name="line" hit="Line Coverage//Uncovered" />
     <option name="uncovered" hit="Line Coverage//Uncovered" />
+    <option name="and" hit="Popups and Hints//Code lens" />
+    <option name="code" hit="Popups and Hints//Code lens" />
+    <option name="hints" hit="Popups and Hints//Code lens" />
+    <option name="lens" hit="Popups and Hints//Code lens" />
+    <option name="popups" hit="Popups and Hints//Code lens" />
     <option name="and" hit="Popups and Hints//Documentation" />
     <option name="documentation" hit="Popups and Hints//Documentation" />
     <option name="hints" hit="Popups and Hints//Documentation" />
@@ -3524,25 +3799,6 @@
     <option name="log" hit="Log Console//Warning" />
     <option name="warning" hit="Log Console//Warning" />
   </configurable>
-  <configurable id="reference.settingsdialog.IDE.editor.colors.Custom" configurable_name="Custom">
-    <option name="custom" hit="Custom" />
-    <option name="block" hit="Block comment" />
-    <option name="comment" hit="Block comment" />
-    <option name="escape" hit="Invalid string escape" />
-    <option name="invalid" hit="Invalid string escape" />
-    <option name="string" hit="Invalid string escape" />
-    <option name="keyword1" hit="Keyword1" />
-    <option name="keyword2" hit="Keyword2" />
-    <option name="keyword3" hit="Keyword3" />
-    <option name="keyword4" hit="Keyword4" />
-    <option name="comment" hit="Line comment" />
-    <option name="line" hit="Line comment" />
-    <option name="number" hit="Number" />
-    <option name="string" hit="String" />
-    <option name="escape" hit="Valid string escape" />
-    <option name="string" hit="Valid string escape" />
-    <option name="valid" hit="Valid string escape" />
-  </configurable>
   <configurable id="reference.settingsdialog.IDE.editor.colors.Diff &amp; Merge" configurable_name="Diff &amp; Merge">
     <option name="diff" hit="Diff &amp; Merge" />
     <option name="merge" hit="Diff &amp; Merge" />
@@ -3562,11 +3818,50 @@
     <option name="fragments" hit="Folded unchanged fragments//Background" />
     <option name="unchanged" hit="Folded unchanged fragments//Background" />
   </configurable>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.User-Defined File Types" configurable_name="User-Defined File Types">
+    <option name="file" hit="User-Defined File Types" />
+    <option name="types" hit="User-Defined File Types" />
+    <option name="user-defined" hit="User-Defined File Types" />
+    <option name="block" hit="Block comment" />
+    <option name="comment" hit="Block comment" />
+    <option name="escape" hit="Invalid string escape" />
+    <option name="invalid" hit="Invalid string escape" />
+    <option name="string" hit="Invalid string escape" />
+    <option name="keyword1" hit="Keyword1" />
+    <option name="keyword2" hit="Keyword2" />
+    <option name="keyword3" hit="Keyword3" />
+    <option name="keyword4" hit="Keyword4" />
+    <option name="comment" hit="Line comment" />
+    <option name="line" hit="Line comment" />
+    <option name="number" hit="Number" />
+    <option name="string" hit="String" />
+    <option name="escape" hit="Valid string escape" />
+    <option name="string" hit="Valid string escape" />
+    <option name="valid" hit="Valid string escape" />
+  </configurable>
   <configurable id="reference.settingsdialog.IDE.editor.colors.By Scope" configurable_name="By Scope">
     <option name="by" hit="By Scope" />
     <option name="scope" hit="By Scope" />
   </configurable>
   <configurable id="preferences.sourceCode" configurable_name="Code Style">
+    <option name="" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="589df6" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="800080" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="a" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="active" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="code" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="color" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="editorconfig" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="f00000" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="hover" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="ide" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="link" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="may" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="override" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="settings" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="style" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="the" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
+    <option name="visited" path="General" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      EditorConfig may override the IDE code style settings   " />
     <option name="applied" path="General" hit="Applied to new files" />
     <option name="files" path="General" hit="Applied to new files" />
     <option name="new" path="General" hit="Applied to new files" />
@@ -3584,6 +3879,7 @@
     <option name="for" path="General" hit="Detect and use existing file indents for editing" />
     <option name="indents" path="General" hit="Detect and use existing file indents for editing" />
     <option name="use" path="General" hit="Detect and use existing file indents for editing" />
+    <option name="disable" hit="Disable" />
     <option name="arrange" path="Formatter Control" hit="Do not format, optimize imports, arrange code:" />
     <option name="code" path="Formatter Control" hit="Do not format, optimize imports, arrange code:" />
     <option name="do" path="Formatter Control" hit="Do not format, optimize imports, arrange code:" />
@@ -3591,6 +3887,9 @@
     <option name="imports" path="Formatter Control" hit="Do not format, optimize imports, arrange code:" />
     <option name="not" path="Formatter Control" hit="Do not format, optimize imports, arrange code:" />
     <option name="optimize" path="Formatter Control" hit="Do not format, optimize imports, arrange code:" />
+    <option name="editorconfig" path="General" hit="Enable EditorConfig support" />
+    <option name="enable" path="General" hit="Enable EditorConfig support" />
+    <option name="support" path="General" hit="Enable EditorConfig support" />
     <option name="comments" path="Formatter Control" hit="Enable formatter markers in comments" />
     <option name="enable" path="Formatter Control" hit="Enable formatter markers in comments" />
     <option name="formatter" path="Formatter Control" hit="Enable formatter markers in comments" />
@@ -3612,8 +3911,6 @@
     <option name="at" path="General" hit="Hard wrap at" />
     <option name="hard" path="General" hit="Hard wrap at" />
     <option name="wrap" path="General" hit="Hard wrap at" />
-    <option name="detection" path="General" hit="Indents Detection" />
-    <option name="indents" path="General" hit="Indents Detection" />
     <option name="line" path="General" hit="Line separator:" />
     <option name="separator" path="General" hit="Line separator:" />
     <option name="loading" hit="Loading..." />
@@ -3642,8 +3939,10 @@
     <option name="wrap" path="General" hit="Wrap on typing" />
     <option name="columns" path="General" hit="columns" />
   </configurable>
+  <configurable id="sql.code.style.group" configurable_name="SQL" />
   <configurable id="stylesheet.code.style.group" configurable_name="Style Sheets" />
   <configurable id="preferences.sourceCode.Other File Types" configurable_name="Other File Types">
+    <option name="disable" hit="Disable" />
     <option name="indent" hit="Indent:" />
     <option name="loading" hit="Loading..." />
     <option name="file" hit="Other File Types" />
@@ -3802,6 +4101,9 @@
     <option name="no" hit="No applicable contexts. " />
     <option name="none" hit="None" />
     <option name="options" hit="Options" />
+    <option name="fq" hit="Shorten  FQ names" />
+    <option name="names" hit="Shorten  FQ names" />
+    <option name="shorten" hit="Shorten  FQ names" />
     <option name="space" hit="Space" />
     <option name="tab" hit="Tab" />
   </configurable>
@@ -3817,6 +4119,13 @@
     <option name="types" hit="Recognized File Types" />
     <option name="patterns" hit="Registered Patterns" />
     <option name="registered" hit="Registered Patterns" />
+  </configurable>
+  <configurable id="inlay.hints" configurable_name="Inlay Hints">
+    <option name="hints" hit="Inlay Hints" />
+    <option name="inlay" hit="Inlay Hints" />
+    <option name="java" hit="Java" />
+    <option name="javascript" hit="JavaScript" />
+    <option name="typescript" hit="TypeScript" />
   </configurable>
   <configurable id="preferences.intentionPowerPack" configurable_name="Intentions">
     <option name="after" hit="After" />

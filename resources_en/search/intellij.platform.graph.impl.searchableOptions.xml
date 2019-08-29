@@ -2,6 +2,19 @@
 <options>
   <configurable id="preferences.keymap" configurable_name="Keymap">
     <option name="" path="ActionManager" hit="" />
+    <option name="export" path="ActionManager" hit="Export to Image File..." />
+    <option name="file" path="ActionManager" hit="Export to Image File..." />
+    <option name="image" path="ActionManager" hit="Export to Image File..." />
+    <option name="to" path="ActionManager" hit="Export to Image File..." />
+    <option name="export" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="file" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="gif" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="jpg" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="or" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="png" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="svg" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="svgz" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
+    <option name="to" path="ActionManager" hit="Export to PNG, JPG, GIF, SVG or SVGZ file" />
     <option name="dependencies" path="ActionManager" hit="Show selected nodes with dependencies" />
     <option name="nodes" path="ActionManager" hit="Show selected nodes with dependencies" />
     <option name="selected" path="ActionManager" hit="Show selected nodes with dependencies" />

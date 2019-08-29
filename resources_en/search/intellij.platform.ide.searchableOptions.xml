@@ -76,6 +76,8 @@
     <option name="accept" path="ActionManager" hit="Accept Right Side" />
     <option name="right" path="ActionManager" hit="Accept Right Side" />
     <option name="side" path="ActionManager" hit="Accept Right Side" />
+    <option name="actions" path="ActionManager" hit="Analysis Actions" />
+    <option name="analysis" path="ActionManager" hit="Analysis Actions" />
     <option name="append" path="ActionManager" hit="Append Left Side" />
     <option name="left" path="ActionManager" hit="Append Left Side" />
     <option name="side" path="ActionManager" hit="Append Left Side" />
@@ -149,15 +151,11 @@
     <option name="previous" path="ActionManager" hit="Compare Previous File" />
     <option name="context" path="ActionManager" hit="Context Help" />
     <option name="help" path="ActionManager" hit="Context Help" />
-    <option name="ctrl" path="ActionManager" hit="Default with Ctrl key" />
-    <option name="default" path="ActionManager" hit="Default with Ctrl key" />
-    <option name="key" path="ActionManager" hit="Default with Ctrl key" />
-    <option name="with" path="ActionManager" hit="Default with Ctrl key" />
+    <option name="ctrl" path="ActionManager" hit="Default with Ctrl Key" />
+    <option name="default" path="ActionManager" hit="Default with Ctrl Key" />
+    <option name="key" path="ActionManager" hit="Default with Ctrl Key" />
+    <option name="with" path="ActionManager" hit="Default with Ctrl Key" />
     <option name="exclude" path="ActionManager" hit="Exclude" />
-    <option name="commit" path="ActionManager" hit="Exclude Lines from Commit" />
-    <option name="exclude" path="ActionManager" hit="Exclude Lines from Commit" />
-    <option name="from" path="ActionManager" hit="Exclude Lines from Commit" />
-    <option name="lines" path="ActionManager" hit="Exclude Lines from Commit" />
     <option name="exclude" path="ActionManager" hit="Exclude this usage(s) from processing" />
     <option name="from" path="ActionManager" hit="Exclude this usage(s) from processing" />
     <option name="processing" path="ActionManager" hit="Exclude this usage(s) from processing" />
@@ -188,6 +186,8 @@
     <option name="in" path="ActionManager" hit="Execute current statement in one-line console" />
     <option name="one-line" path="ActionManager" hit="Execute current statement in one-line console" />
     <option name="statement" path="ActionManager" hit="Execute current statement in one-line console" />
+    <option name="force" path="ActionManager" hit="Force Refresh" />
+    <option name="refresh" path="ActionManager" hit="Force Refresh" />
     <option name="changed" path="ActionManager" hit="Go To Changed File..." />
     <option name="file" path="ActionManager" hit="Go To Changed File..." />
     <option name="go" path="ActionManager" hit="Go To Changed File..." />
@@ -199,6 +199,10 @@
     <option name="right" path="ActionManager" hit="Ignore Right Side" />
     <option name="side" path="ActionManager" hit="Ignore Right Side" />
     <option name="include" path="ActionManager" hit="Include" />
+    <option name="commit" path="ActionManager" hit="Include Lines into Commit" />
+    <option name="include" path="ActionManager" hit="Include Lines into Commit" />
+    <option name="into" path="ActionManager" hit="Include Lines into Commit" />
+    <option name="lines" path="ActionManager" hit="Include Lines into Commit" />
     <option name="commit" path="ActionManager" hit="Include Only These Lines into Commit" />
     <option name="include" path="ActionManager" hit="Include Only These Lines into Commit" />
     <option name="into" path="ActionManager" hit="Include Only These Lines into Commit" />
@@ -288,9 +292,9 @@
     <option name="opens" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
     <option name="or" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
     <option name="selected" path="ActionManager" hit="Opens a child menu or invokes an action from selected menu item." />
-    <option name="actions" path="ActionManager" hit="Popup menu actions" />
-    <option name="menu" path="ActionManager" hit="Popup menu actions" />
-    <option name="popup" path="ActionManager" hit="Popup menu actions" />
+    <option name="actions" path="ActionManager" hit="Popup Menu Actions" />
+    <option name="menu" path="ActionManager" hit="Popup Menu Actions" />
+    <option name="popup" path="ActionManager" hit="Popup Menu Actions" />
     <option name="conflict" path="ActionManager" hit="Previous Conflict" />
     <option name="previous" path="ActionManager" hit="Previous Conflict" />
     <option name="difference" path="ActionManager" hit="Previous Difference" />

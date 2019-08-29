@@ -55,10 +55,10 @@
     <option name="actions" path="ActionManager" hit="Debugger Step Actions" />
     <option name="debugger" path="ActionManager" hit="Debugger Step Actions" />
     <option name="step" path="ActionManager" hit="Debugger Step Actions" />
-    <option name="alt" path="ActionManager" hit="Debugger with Alt key" />
-    <option name="debugger" path="ActionManager" hit="Debugger with Alt key" />
-    <option name="key" path="ActionManager" hit="Debugger with Alt key" />
-    <option name="with" path="ActionManager" hit="Debugger with Alt key" />
+    <option name="alt" path="ActionManager" hit="Debugger with Alt Key" />
+    <option name="debugger" path="ActionManager" hit="Debugger with Alt Key" />
+    <option name="key" path="ActionManager" hit="Debugger with Alt Key" />
+    <option name="with" path="ActionManager" hit="Debugger with Alt Key" />
     <option name="duplicate" path="ActionManager" hit="Duplicate Watch" />
     <option name="watch" path="ActionManager" hit="Duplicate Watch" />
     <option name="breakpoint" path="ActionManager" hit="Edit breakpoint" />
@@ -115,6 +115,15 @@
     <option name="source" path="ActionManager" hit="Jump To Type Source" />
     <option name="to" path="ActionManager" hit="Jump To Type Source" />
     <option name="type" path="ActionManager" hit="Jump To Type Source" />
+    <option name="classes" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="debugger" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="increase" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="load" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="may" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="on" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="overhead" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="pause" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="stepping" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
     <option name="mark" path="ActionManager" hit="Mark Object..." />
     <option name="object" path="ActionManager" hit="Mark Object..." />
     <option name="be" path="ActionManager" hit="Mark/unmark the object so that it can be visually distinguished in in debugger views" />
@@ -162,6 +171,9 @@
     <option name="value" path="ActionManager" hit="Open source of the selected value's type" />
     <option name="pause" path="ActionManager" hit="Pause Program" />
     <option name="program" path="ActionManager" hit="Pause Program" />
+    <option name="pin" path="ActionManager" hit="Pin to top" />
+    <option name="to" path="ActionManager" hit="Pin to top" />
+    <option name="top" path="ActionManager" hit="Pin to top" />
     <option name="evaluate" path="ActionManager" hit="Quick Evaluate Expression" />
     <option name="expression" path="ActionManager" hit="Quick Evaluate Expression" />
     <option name="quick" path="ActionManager" hit="Quick Evaluate Expression" />
@@ -216,6 +228,10 @@
     <option name="execution" path="ActionManager" hit="Show Execution Point" />
     <option name="point" path="ActionManager" hit="Show Execution Point" />
     <option name="show" path="ActionManager" hit="Show Execution Point" />
+    <option name="diff" path="ActionManager" hit="Show Non-Zero Diff Only" />
+    <option name="non-zero" path="ActionManager" hit="Show Non-Zero Diff Only" />
+    <option name="only" path="ActionManager" hit="Show Non-Zero Diff Only" />
+    <option name="show" path="ActionManager" hit="Show Non-Zero Diff Only" />
     <option name="objects" path="ActionManager" hit="Show Referring Objects..." />
     <option name="referring" path="ActionManager" hit="Show Referring Objects..." />
     <option name="show" path="ActionManager" hit="Show Referring Objects..." />
@@ -340,6 +356,12 @@
     <option name="on" path="ActionManager" hit="Unmute Breakpoints on Session Finish" />
     <option name="session" path="ActionManager" hit="Unmute Breakpoints on Session Finish" />
     <option name="unmute" path="ActionManager" hit="Unmute Breakpoints on Session Finish" />
+    <option name="classes" path="ActionManager" hit="Update Loaded Classes On Debugger Stop" />
+    <option name="debugger" path="ActionManager" hit="Update Loaded Classes On Debugger Stop" />
+    <option name="loaded" path="ActionManager" hit="Update Loaded Classes On Debugger Stop" />
+    <option name="on" path="ActionManager" hit="Update Loaded Classes On Debugger Stop" />
+    <option name="stop" path="ActionManager" hit="Update Loaded Classes On Debugger Stop" />
+    <option name="update" path="ActionManager" hit="Update Loaded Classes On Debugger Stop" />
     <option name="breakpoints" path="ActionManager" hit="View Breakpoints..." />
     <option name="view" path="ActionManager" hit="View Breakpoints..." />
     <option name="all" path="ActionManager" hit="View and manage all breakpoints and watchpoints" />
@@ -377,9 +399,10 @@
     <option name="frame" hit="Not top frame" />
     <option name="not" hit="Not top frame" />
     <option name="top" hit="Not top frame" />
-    <option name="calls" hit="Recursive calls highlighting" />
-    <option name="highlighting" hit="Recursive calls highlighting" />
-    <option name="recursive" hit="Recursive calls highlighting" />
+    <option name="into" hit="Smart step into selection" />
+    <option name="selection" hit="Smart step into selection" />
+    <option name="smart" hit="Smart step into selection" />
+    <option name="step" hit="Smart step into selection" />
     <option name="into" hit="Smart step into target" />
     <option name="smart" hit="Smart step into target" />
     <option name="step" hit="Smart step into target" />
@@ -390,6 +413,13 @@
   </configurable>
   <configurable id="project.propDebugger" configurable_name="Debugger">
     <option name="" hit="" />
+    <option name="click" hit="Click line number to perform run to cursor" />
+    <option name="cursor" hit="Click line number to perform run to cursor" />
+    <option name="line" hit="Click line number to perform run to cursor" />
+    <option name="number" hit="Click line number to perform run to cursor" />
+    <option name="perform" hit="Click line number to perform run to cursor" />
+    <option name="run" hit="Click line number to perform run to cursor" />
+    <option name="to" hit="Click line number to perform run to cursor" />
     <option name="button" hit="Click with left mouse button" />
     <option name="click" hit="Click with left mouse button" />
     <option name="left" hit="Click with left mouse button" />
@@ -453,15 +483,6 @@
     <option name="to" hit="If disabled, use &quot;{0}&quot; to show/hide tooltips" />
     <option name="tooltips" hit="If disabled, use &quot;{0}&quot; to show/hide tooltips" />
     <option name="use" hit="If disabled, use &quot;{0}&quot; to show/hide tooltips" />
-    <option name="javascript" hit="JavaScript" />
-    <option name="an" hit="Show the following properties for an object node:" />
-    <option name="following" hit="Show the following properties for an object node:" />
-    <option name="for" hit="Show the following properties for an object node:" />
-    <option name="node" hit="Show the following properties for an object node:" />
-    <option name="object" hit="Show the following properties for an object node:" />
-    <option name="properties" hit="Show the following properties for an object node:" />
-    <option name="show" hit="Show the following properties for an object node:" />
-    <option name="the" hit="Show the following properties for an object node:" />
     <option name="code" hit="Show value tooltip on code selection" />
     <option name="on" hit="Show value tooltip on code selection" />
     <option name="selection" hit="Show value tooltip on code selection" />
@@ -484,6 +505,9 @@
   </configurable>
   <configurable id="debugger.stepping" configurable_name="Stepping">
     <option name="stepping" hit="Stepping" />
+  </configurable>
+  <configurable id="debugger.hotswap" configurable_name="HotSwap">
+    <option name="hotswap" hit="HotSwap" />
   </configurable>
 </options>
 

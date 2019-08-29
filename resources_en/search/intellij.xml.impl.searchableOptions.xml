@@ -74,8 +74,6 @@
     <option name="emmet" path="ActionManager" hit="Next Emmet Edit Point" />
     <option name="next" path="ActionManager" hit="Next Emmet Edit Point" />
     <option name="point" path="ActionManager" hit="Next Emmet Edit Point" />
-    <option name="in" path="ActionManager" hit="Open In..." />
-    <option name="open" path="ActionManager" hit="Open In..." />
     <option name="browser" path="ActionManager" hit="Open in Browser" />
     <option name="in" path="ActionManager" hit="Open in Browser" />
     <option name="open" path="ActionManager" hit="Open in Browser" />
@@ -98,12 +96,6 @@
     <option name="emmet" path="ActionManager" hit="Previous Emmet Edit Point" />
     <option name="point" path="ActionManager" hit="Previous Emmet Edit Point" />
     <option name="previous" path="ActionManager" hit="Previous Emmet Edit Point" />
-    <option name="group" path="ActionManager" hit="Project View Popup Menu Run Group" />
-    <option name="menu" path="ActionManager" hit="Project View Popup Menu Run Group" />
-    <option name="popup" path="ActionManager" hit="Project View Popup Menu Run Group" />
-    <option name="project" path="ActionManager" hit="Project View Popup Menu Run Group" />
-    <option name="run" path="ActionManager" hit="Project View Popup Menu Run Group" />
-    <option name="view" path="ActionManager" hit="Project View Popup Menu Run Group" />
     <option name="configurations" path="ActionManager" hit="Run Configurations" />
     <option name="run" path="ActionManager" hit="Run Configurations" />
     <option name="breadcrumbs" path="ActionManager" hit="Show Breadcrumbs" />
@@ -175,14 +167,32 @@
     <option name="popup" hit="Show import popup" />
     <option name="show" hit="Show import popup" />
     <option name="xml" hit="XML" />
-  </configurable>
-  <configurable id="editor.preferences.appearance" configurable_name="Appearance">
-    <option name="as" hit="Show CSS color preview as background" />
-    <option name="background" hit="Show CSS color preview as background" />
-    <option name="color" hit="Show CSS color preview as background" />
-    <option name="css" hit="Show CSS color preview as background" />
-    <option name="preview" hit="Show CSS color preview as background" />
-    <option name="show" hit="Show CSS color preview as background" />
+    <option_top_hit name="Auto Import: XML: Show import popup" />
+    <option_top_hit name="Auto Import: Java: Add unambiguous imports on the fly" />
+    <option_top_hit name="Auto Import | Java | Insert imports on paste | All" />
+    <option_top_hit name="Auto Import | Java | Insert imports on paste | Ask" />
+    <option_top_hit name="Auto Import | Java | Insert imports on paste | None" />
+    <option_top_hit name="Auto Import: Java: classes" />
+    <option_top_hit name="Auto Import: Java: static methods and fields" />
+    <option_top_hit name="Auto Import: Java: Optimize imports on the fly (for current project)" />
+    <option_top_hit name="Auto Import: TypeScript / JavaScript: Add ES6 imports on code completion" />
+    <option_top_hit name="Auto Import: TypeScript / JavaScript: Add TypeScript imports automatically" />
+    <option_top_hit name="Auto Import: TypeScript / JavaScript: On code completion" />
+    <option_top_hit name="Auto Import: TypeScript / JavaScript: With import popup" />
+    <option_top_hit name="Auto Import: TypeScript / JavaScript: Unambiguous imports on the fly" />
+    <option_top_hit name="Auto Import: PHP: Enable auto-import in file scope" />
+    <option_top_hit name="Auto Import: PHP: Enable auto-import in namespace scope" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Class prefer import" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Class prefer FQN" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Function prefer fallback" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Function prefer import" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Function prefer FQN" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Constant prefer fallback" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Constant prefer import" />
+    <option_top_hit name="Auto Import | PHP | Treat symbols from the global space | Constant prefer FQN" />
+    <option_top_hit name="Auto Import | PHP | Insert imports on paste | All" />
+    <option_top_hit name="Auto Import | PHP | Insert imports on paste | Ask" />
+    <option_top_hit name="Auto Import | PHP | Insert imports on paste | None" />
   </configurable>
   <configurable id="editor.preferences.appearance" configurable_name="Appearance">
     <option name="enable" hit="Enable HTML/XML tag tree highlighting" />
@@ -226,6 +236,39 @@
     <option name="xml" hit="XML entities" />
     <option name="tags" hit="XML tags" />
     <option name="xml" hit="XML tags" />
+    <option_top_hit name="Show code folding outline" />
+    <option_top_hit name="Collapse by default: File header" />
+    <option_top_hit name="Collapse by default: Imports" />
+    <option_top_hit name="Collapse by default: Documentation comments" />
+    <option_top_hit name="Collapse by default: Method bodies" />
+    <option_top_hit name="Collapse by default: Custom folding regions" />
+    <option_top_hit name="Collapse by default: XML tags" />
+    <option_top_hit name="Collapse by default: HTML 'style' attribute" />
+    <option_top_hit name="Collapse by default: XML entities" />
+    <option_top_hit name="Collapse by default: Data URIs" />
+    <option_top_hit name="Collapse by default: One-line methods" />
+    <option_top_hit name="Collapse by default: Simple property accessors" />
+    <option_top_hit name="Collapse by default: Inner classes" />
+    <option_top_hit name="Collapse by default: Anonymous classes" />
+    <option_top_hit name="Collapse by default: Annotations" />
+    <option_top_hit name="Collapse by default: \&quot;Closures\&quot; (anonymous classes implementing one method, before Java 8)" />
+    <option_top_hit name="Collapse by default: Generic constructor and method parameters" />
+    <option_top_hit name="Collapse by default: Replace 'var' with inferred type" />
+    <option_top_hit name="Collapse by default: I18n strings" />
+    <option_top_hit name="Collapse by default: @SuppressWarnings" />
+    <option_top_hit name="Collapse by default: End of line comments sequence" />
+    <option_top_hit name="Collapse by default: Multiline comments" />
+    <option_top_hit name="Collapse by default: Long SQL literals" />
+    <option_top_hit name="Collapse by default: One-line functions in JavaScript and TypeScript" />
+    <option_top_hit name="Collapse by default: Object literals" />
+    <option_top_hit name="Collapse by default: Array literals" />
+    <option_top_hit name="Collapse by default: XML literals" />
+    <option_top_hit name="Collapse by default: PHP class body" />
+    <option_top_hit name="Collapse by default: PHP imports" />
+    <option_top_hit name="Collapse by default: PHP method body" />
+    <option_top_hit name="Collapse by default: PHP function body" />
+    <option_top_hit name="Collapse by default: PHP tags" />
+    <option_top_hit name="Collapse by default: PHP HEREDOC\\NOWDOC" />
   </configurable>
   <configurable id="editor.preferences.smartKeys" configurable_name="Smart Keys">
     <option name="add" hit="Add quotes for attribute value on typing '=' and attribute completion" />
@@ -276,6 +319,56 @@
     <option name="web" hit="Web" />
     <option name="html" hit="XML/HTML" />
     <option name="xml" hit="XML/HTML" />
+    <option_top_hit name="Smart Keys: Home" />
+    <option_top_hit name="Smart Keys: End (on blank line)" />
+    <option_top_hit name="Smart Keys: Insert paired brackets (), [], {}, " />
+    <option_top_hit name="Smart Keys: Insert pair quote" />
+    <option_top_hit name="Smart Keys: Use \&quot;CamelHumps\&quot; words" />
+    <option_top_hit name="Smart Keys | Reformat on paste | None" />
+    <option_top_hit name="Smart Keys | Reformat on paste | Indent Block" />
+    <option_top_hit name="Smart Keys | Reformat on paste | Indent Each Line" />
+    <option_top_hit name="Smart Keys | Reformat on paste | Reformat Block" />
+    <option_top_hit name="Smart Keys: XML/HTML: Insert closing tag on tag completion" />
+    <option_top_hit name="Smart Keys: XML/HTML: Insert required attributes on tag completion" />
+    <option_top_hit name="Smart Keys: XML/HTML: Start attribute on tag completion" />
+    <option_top_hit name="Smart Keys: XML/HTML: Insert required subtags on tag completion" />
+    <option_top_hit name="Smart Keys: XML/HTML: Add quotes for attribute value on typing '=' and attribute completion" />
+    <option_top_hit name="Smart Keys: XML/HTML: Auto-close tag on typing '&lt;/'" />
+    <option_top_hit name="Smart Keys: XML/HTML: Simultaneous '' editing" />
+    <option_top_hit name="Smart Keys: CSS: Select whole CSS identifiers on double click" />
+    <option_top_hit name="Smart Keys: JSON: Insert missing comma on enter" />
+    <option_top_hit name="Smart Keys: JSON: Insert missing comma after matching braces and quotes" />
+    <option_top_hit name="Smart Keys: JSON: Automatically manage commas when pasting JSON fragments" />
+    <option_top_hit name="Smart Keys: JSON: Escape text on paste in string literals" />
+    <option_top_hit name="Smart Keys: JSON: Automatically add quotes to property names when typing ':'" />
+    <option_top_hit name="Smart Keys: JSON: Automatically add whitespace when typing ':' after property names" />
+    <option_top_hit name="Smart Keys: Javadoc: Automatically insert closing tag" />
+    <option_top_hit name="Smart Keys: SQL: Insert string concatenation on Enter" />
+    <option_top_hit name="Smart Keys | SQL | Database/Schema | Always" />
+    <option_top_hit name="Smart Keys | SQL | Database/Schema | On collisions" />
+    <option_top_hit name="Smart Keys | SQL | Database/Schema | Never" />
+    <option_top_hit name="Smart Keys | SQL | Qualify object on code completion and refactorings with | Always" />
+    <option_top_hit name="Smart Keys | SQL | Qualify object on code completion and refactorings with | On collisions" />
+    <option_top_hit name="Smart Keys | SQL | Qualify object on code completion and refactorings with | Never" />
+    <option_top_hit name="Smart Keys | SQL | Alias Always" />
+    <option_top_hit name="Smart Keys | SQL | Alias On collisions" />
+    <option_top_hit name="Smart Keys | SQL | Alias Never" />
+    <option_top_hit name="Smart Keys: JavaScript: Start template string interpolation on typing '$'" />
+    <option_top_hit name="Smart Keys: JavaScript: Escape text on paste in string literals" />
+    <option_top_hit name="Smart Keys: JavaScript: Convert attributes when pasting HTML to JSX files" />
+    <option_top_hit name="Smart Keys: PHP: Enable smart function parameters completion" />
+    <option_top_hit name="Smart Keys: PHP: Select variable name without '$' sign on double click" />
+    <option_top_hit name="Smart Keys: PHP: Remove PHP open/close tags while pasting in PHP context" />
+    <option_top_hit name="Smart Keys: Reformat block on typing '}'" />
+    <option_top_hit name="Smart Keys: Surround selection on typing quote or brace" />
+    <option_top_hit name="Smart Keys | Backspace | Unindent | Disabled" />
+    <option_top_hit name="Smart Keys | Backspace | Unindent | To nearest indent position" />
+    <option_top_hit name="Smart Keys | Backspace | Unindent | To proper indent position" />
+    <option_top_hit name="Smart Keys: Enter: Smart indent" />
+    <option_top_hit name="Smart Keys: Enter: Insert pair '}'" />
+    <option_top_hit name="Smart Keys: Enter: Insert documentation comment stub" />
+    <option_top_hit name="Smart Keys: Add multiple carets on double Ctrl with arrow keys" />
+    <option_top_hit name="Smart Keys: Jump outside closing bracket/quote with Tab when typing" />
   </configurable>
   <configurable id="reference.settingsdialog.IDE.editor.colors.HTML" configurable_name="HTML">
     <option name="html" hit="HTML" />
@@ -376,6 +469,7 @@
     <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
     <option name="default" path="Other" hit="Default: No" />
     <option name="no" path="Other" hit="Default: No" />
+    <option name="disable" hit="Disable" />
     <option name="children" path="Other" hit="Do not indent children of:" />
     <option name="do" path="Other" hit="Do not indent children of:" />
     <option name="indent" path="Other" hit="Do not indent children of:" />
@@ -547,6 +641,7 @@
     <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
     <option name="default" path="Other" hit="Default: No" />
     <option name="no" path="Other" hit="Default: No" />
+    <option name="disable" hit="Disable" />
     <option name="do" path="Other" hit="Do not wrap" />
     <option name="not" path="Other" hit="Do not wrap" />
     <option name="wrap" path="Other" hit="Do not wrap" />
@@ -769,6 +864,8 @@
     <option name="popup" hit="Show browser popup in the editor" />
     <option name="show" hit="Show browser popup in the editor" />
     <option name="the" hit="Show browser popup in the editor" />
+    <option name="default" hit="System default" />
+    <option name="system" hit="System default" />
     <option name="browsers" hit="Web Browsers" />
     <option name="web" hit="Web Browsers" />
   </configurable>

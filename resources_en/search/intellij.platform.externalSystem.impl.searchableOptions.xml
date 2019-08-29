@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="assign" path="ActionManager" hit="Assign Shortcut..." />
+    <option name="shortcut" path="ActionManager" hit="Assign Shortcut..." />
+    <option name="assign" path="ActionManager" hit="Assign shortcut to the selected Run Configuration" />
+    <option name="configuration" path="ActionManager" hit="Assign shortcut to the selected Run Configuration" />
+    <option name="run" path="ActionManager" hit="Assign shortcut to the selected Run Configuration" />
+    <option name="selected" path="ActionManager" hit="Assign shortcut to the selected Run Configuration" />
+    <option name="shortcut" path="ActionManager" hit="Assign shortcut to the selected Run Configuration" />
+    <option name="the" path="ActionManager" hit="Assign shortcut to the selected Run Configuration" />
+    <option name="to" path="ActionManager" hit="Assign shortcut to the selected Run Configuration" />
+    <option name="assign" path="ActionManager" hit="Assign shortcut to the selected task" />
+    <option name="selected" path="ActionManager" hit="Assign shortcut to the selected task" />
+    <option name="shortcut" path="ActionManager" hit="Assign shortcut to the selected task" />
+    <option name="task" path="ActionManager" hit="Assign shortcut to the selected task" />
+    <option name="the" path="ActionManager" hit="Assign shortcut to the selected task" />
+    <option name="to" path="ActionManager" hit="Assign shortcut to the selected task" />
+    <option name="all" path="ActionManager" hit="Collapse All" />
+    <option name="collapse" path="ActionManager" hit="Collapse All" />
+    <option name="display" path="ActionManager" hit="Display Tasks Inherited from Sub-Projects" />
+    <option name="from" path="ActionManager" hit="Display Tasks Inherited from Sub-Projects" />
+    <option name="inherited" path="ActionManager" hit="Display Tasks Inherited from Sub-Projects" />
+    <option name="sub-projects" path="ActionManager" hit="Display Tasks Inherited from Sub-Projects" />
+    <option name="tasks" path="ActionManager" hit="Display Tasks Inherited from Sub-Projects" />
+    <option name="configuration" path="ActionManager" hit="Edit Run Configuration..." />
+    <option name="edit" path="ActionManager" hit="Edit Run Configuration..." />
+    <option name="run" path="ActionManager" hit="Edit Run Configuration..." />
+    <option name="current" path="ActionManager" hit="Edit external settings for the current project" />
+    <option name="edit" path="ActionManager" hit="Edit external settings for the current project" />
+    <option name="external" path="ActionManager" hit="Edit external settings for the current project" />
+    <option name="for" path="ActionManager" hit="Edit external settings for the current project" />
+    <option name="project" path="ActionManager" hit="Edit external settings for the current project" />
+    <option name="settings" path="ActionManager" hit="Edit external settings for the current project" />
+    <option name="the" path="ActionManager" hit="Edit external settings for the current project" />
+    <option name="activation" path="ActionManager" hit="Edit external system tasks activation settings" />
+    <option name="edit" path="ActionManager" hit="Edit external system tasks activation settings" />
+    <option name="external" path="ActionManager" hit="Edit external system tasks activation settings" />
+    <option name="settings" path="ActionManager" hit="Edit external system tasks activation settings" />
+    <option name="system" path="ActionManager" hit="Edit external system tasks activation settings" />
+    <option name="tasks" path="ActionManager" hit="Edit external system tasks activation settings" />
+    <option name="after" path="ActionManager" hit="Execute After Build" />
+    <option name="build" path="ActionManager" hit="Execute After Build" />
+    <option name="execute" path="ActionManager" hit="Execute After Build" />
+    <option name="after" path="ActionManager" hit="Execute After Rebuild" />
+    <option name="execute" path="ActionManager" hit="Execute After Rebuild" />
+    <option name="rebuild" path="ActionManager" hit="Execute After Rebuild" />
+    <option name="after" path="ActionManager" hit="Execute After Sync" />
+    <option name="execute" path="ActionManager" hit="Execute After Sync" />
+    <option name="sync" path="ActionManager" hit="Execute After Sync" />
+    <option name="before" path="ActionManager" hit="Execute Before Build" />
+    <option name="build" path="ActionManager" hit="Execute Before Build" />
+    <option name="execute" path="ActionManager" hit="Execute Before Build" />
+    <option name="before" path="ActionManager" hit="Execute Before Rebuild" />
+    <option name="execute" path="ActionManager" hit="Execute Before Rebuild" />
+    <option name="rebuild" path="ActionManager" hit="Execute Before Rebuild" />
+    <option name="before" path="ActionManager" hit="Execute Before Run/Debug..." />
+    <option name="debug" path="ActionManager" hit="Execute Before Run/Debug..." />
+    <option name="execute" path="ActionManager" hit="Execute Before Run/Debug..." />
+    <option name="run" path="ActionManager" hit="Execute Before Run/Debug..." />
+    <option name="before" path="ActionManager" hit="Execute Before Sync" />
+    <option name="execute" path="ActionManager" hit="Execute Before Sync" />
+    <option name="sync" path="ActionManager" hit="Execute Before Sync" />
+    <option name="after" path="ActionManager" hit="Execute selected task after Build" />
+    <option name="build" path="ActionManager" hit="Execute selected task after Build" />
+    <option name="execute" path="ActionManager" hit="Execute selected task after Build" />
+    <option name="selected" path="ActionManager" hit="Execute selected task after Build" />
+    <option name="task" path="ActionManager" hit="Execute selected task after Build" />
+    <option name="after" path="ActionManager" hit="Execute selected task after full rebuild" />
+    <option name="execute" path="ActionManager" hit="Execute selected task after full rebuild" />
+    <option name="full" path="ActionManager" hit="Execute selected task after full rebuild" />
+    <option name="rebuild" path="ActionManager" hit="Execute selected task after full rebuild" />
+    <option name="selected" path="ActionManager" hit="Execute selected task after full rebuild" />
+    <option name="task" path="ActionManager" hit="Execute selected task after full rebuild" />
+    <option name="after" path="ActionManager" hit="Execute selected task after the project import" />
+    <option name="execute" path="ActionManager" hit="Execute selected task after the project import" />
+    <option name="import" path="ActionManager" hit="Execute selected task after the project import" />
+    <option name="project" path="ActionManager" hit="Execute selected task after the project import" />
+    <option name="selected" path="ActionManager" hit="Execute selected task after the project import" />
+    <option name="task" path="ActionManager" hit="Execute selected task after the project import" />
+    <option name="the" path="ActionManager" hit="Execute selected task after the project import" />
+    <option name="before" path="ActionManager" hit="Execute selected task before Build" />
+    <option name="build" path="ActionManager" hit="Execute selected task before Build" />
+    <option name="execute" path="ActionManager" hit="Execute selected task before Build" />
+    <option name="selected" path="ActionManager" hit="Execute selected task before Build" />
+    <option name="task" path="ActionManager" hit="Execute selected task before Build" />
+    <option name="before" path="ActionManager" hit="Execute selected task before full rebuild" />
+    <option name="execute" path="ActionManager" hit="Execute selected task before full rebuild" />
+    <option name="full" path="ActionManager" hit="Execute selected task before full rebuild" />
+    <option name="rebuild" path="ActionManager" hit="Execute selected task before full rebuild" />
+    <option name="selected" path="ActionManager" hit="Execute selected task before full rebuild" />
+    <option name="task" path="ActionManager" hit="Execute selected task before full rebuild" />
+    <option name="before" path="ActionManager" hit="Execute selected task before launching Run/Debug configuration" />
+    <option name="configuration" path="ActionManager" hit="Execute selected task before launching Run/Debug configuration" />
+    <option name="debug" path="ActionManager" hit="Execute selected task before launching Run/Debug configuration" />
+    <option name="execute" path="ActionManager" hit="Execute selected task before launching Run/Debug configuration" />
+    <option name="launching" path="ActionManager" hit="Execute selected task before launching Run/Debug configuration" />
+    <option name="run" path="ActionManager" hit="Execute selected task before launching Run/Debug configuration" />
+    <option name="selected" path="ActionManager" hit="Execute selected task before launching Run/Debug configuration" />
+    <option name="task" path="ActionManager" hit="Execute selected task before launching Run/Debug configuration" />
+    <option name="before" path="ActionManager" hit="Execute selected task before the project import" />
+    <option name="execute" path="ActionManager" hit="Execute selected task before the project import" />
+    <option name="import" path="ActionManager" hit="Execute selected task before the project import" />
+    <option name="project" path="ActionManager" hit="Execute selected task before the project import" />
+    <option name="selected" path="ActionManager" hit="Execute selected task before the project import" />
+    <option name="task" path="ActionManager" hit="Execute selected task before the project import" />
+    <option name="the" path="ActionManager" hit="Execute selected task before the project import" />
+    <option name="execute" path="ActionManager" hit="Execute selected tasks" />
+    <option name="selected" path="ActionManager" hit="Execute selected tasks" />
+    <option name="tasks" path="ActionManager" hit="Execute selected tasks" />
+    <option name="all" path="ActionManager" hit="Expand All" />
+    <option name="expand" path="ActionManager" hit="Expand All" />
+    <option name="external" path="ActionManager" hit="External Settings" />
+    <option name="settings" path="ActionManager" hit="External Settings" />
+    <option name="all" path="ActionManager" hit="Force reimport all linked external projects" />
+    <option name="external" path="ActionManager" hit="Force reimport all linked external projects" />
+    <option name="force" path="ActionManager" hit="Force reimport all linked external projects" />
+    <option name="linked" path="ActionManager" hit="Force reimport all linked external projects" />
+    <option name="projects" path="ActionManager" hit="Force reimport all linked external projects" />
+    <option name="reimport" path="ActionManager" hit="Force reimport all linked external projects" />
+    <option name="external" path="ActionManager" hit="Force reimport selected linked External project" />
+    <option name="force" path="ActionManager" hit="Force reimport selected linked External project" />
+    <option name="linked" path="ActionManager" hit="Force reimport selected linked External project" />
+    <option name="project" path="ActionManager" hit="Force reimport selected linked External project" />
+    <option name="reimport" path="ActionManager" hit="Force reimport selected linked External project" />
+    <option name="selected" path="ActionManager" hit="Force reimport selected linked External project" />
+    <option name="group" path="ActionManager" hit="Group Modules" />
+    <option name="modules" path="ActionManager" hit="Group Modules" />
+    <option name="group" path="ActionManager" hit="Group Tasks" />
+    <option name="tasks" path="ActionManager" hit="Group Tasks" />
+    <option name="external" path="ActionManager" hit="Ignore External Project" />
+    <option name="ignore" path="ActionManager" hit="Ignore External Project" />
+    <option name="project" path="ActionManager" hit="Ignore External Project" />
+    <option name="external" path="ActionManager" hit="Ignore selected external project" />
+    <option name="ignore" path="ActionManager" hit="Ignore selected external project" />
+    <option name="project" path="ActionManager" hit="Ignore selected external project" />
+    <option name="selected" path="ActionManager" hit="Ignore selected external project" />
+    <option name="config" path="ActionManager" hit="Open External Config" />
+    <option name="external" path="ActionManager" hit="Open External Config" />
+    <option name="open" path="ActionManager" hit="Open External Config" />
+    <option name="editor" path="ActionManager" hit="Opens the external project file in the editor" />
+    <option name="external" path="ActionManager" hit="Opens the external project file in the editor" />
+    <option name="file" path="ActionManager" hit="Opens the external project file in the editor" />
+    <option name="in" path="ActionManager" hit="Opens the external project file in the editor" />
+    <option name="opens" path="ActionManager" hit="Opens the external project file in the editor" />
+    <option name="project" path="ActionManager" hit="Opens the external project file in the editor" />
+    <option name="the" path="ActionManager" hit="Opens the external project file in the editor" />
+    <option name="all" path="ActionManager" hit="Reimport All External Projects" />
+    <option name="external" path="ActionManager" hit="Reimport All External Projects" />
+    <option name="projects" path="ActionManager" hit="Reimport All External Projects" />
+    <option name="reimport" path="ActionManager" hit="Reimport All External Projects" />
+    <option name="external" path="ActionManager" hit="Reimport External Project" />
+    <option name="project" path="ActionManager" hit="Reimport External Project" />
+    <option name="reimport" path="ActionManager" hit="Reimport External Project" />
+    <option name="configuration" path="ActionManager" hit="Remove Run Configuration" />
+    <option name="remove" path="ActionManager" hit="Remove Run Configuration" />
+    <option name="run" path="ActionManager" hit="Remove Run Configuration" />
+    <option name="run" path="ActionManager" hit="Run Task" />
+    <option name="task" path="ActionManager" hit="Run Task" />
+    <option name="data" path="ActionManager" hit="Select Project Data To Import" />
+    <option name="import" path="ActionManager" hit="Select Project Data To Import" />
+    <option name="project" path="ActionManager" hit="Select Project Data To Import" />
+    <option name="select" path="ActionManager" hit="Select Project Data To Import" />
+    <option name="to" path="ActionManager" hit="Select Project Data To Import" />
+    <option name="ignored" path="ActionManager" hit="Show Ignored" />
+    <option name="show" path="ActionManager" hit="Show Ignored" />
+    <option name="activation" path="ActionManager" hit="Tasks Activation" />
+    <option name="tasks" path="ActionManager" hit="Tasks Activation" />
+    <option name="external" path="ActionManager" hit="Unlink External Project" />
+    <option name="project" path="ActionManager" hit="Unlink External Project" />
+    <option name="unlink" path="ActionManager" hit="Unlink External Project" />
+    <option name="project" path="ActionManager" hit="Unlink selected project" />
+    <option name="selected" path="ActionManager" hit="Unlink selected project" />
+    <option name="unlink" path="ActionManager" hit="Unlink selected project" />
+  </configurable>
+</options>
+
